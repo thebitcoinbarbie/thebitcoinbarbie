@@ -1,0 +1,15 @@
+{
+  "name": "crypto-starter-kit",
+  "local_port": 55690,
+  "entrypoint": "bun run dev",
+  "publish": {
+    "label": "crypto-starter-kit",
+    "type": "http",
+    "entrypoint": "bun run prod",
+    "published_port": 55045,
+    "env": {
+      "NODE_ENV": "production",
+      "ZO_CLIENT_IDENTITY_TOKEN": "none"
+    }
+  }
+}
