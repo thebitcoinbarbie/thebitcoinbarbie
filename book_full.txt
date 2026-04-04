@@ -1,0 +1,5494 @@
+=== PAGE 1 ===
+Like it!
+Instagram: @thebitcoinbarbie
+Facebook: @TheBitcoinBarbie
+Twitter:@Thebitcoinbarbi
+© Sydney Csuk 2023
+www.thebitcoinbarbie.com
+Editing: Yvonne G. Zacharias
+Layout: Yvonne G. Zacharias
+Cover: Sydney Csuk
+All rights reserved
+1.Edition 2023
+ 1
+
+=== PAGE 2 ===
+Special thanks from Barbie 
+This book is dedicated to my sons. Alaeo Ikenne; a name 
+that means Mother’s Strength, because without seeing 
+your amazing face everyday, I would not have the 
+strength to continue. And to Darius; The light of my life. 
+Y our humor and compassion during both the light and 
+dark times brings me a sense of divine purpose as well as 
+the power to raise you to your maximum potential. I love 
+you more than I could ever express in words. Remember 
+that always.  
+A huge shout out to Yvonne. In life, it’s rare to find people 
+who not only understand your vision, but know how to 
+contribute and take it from a dream to a reality. All while 
+being authentic and supportive in every possible way. My 
+ever present gratitude extends far beyond this 
+paragraph. I look forward to our empire, my friend.  
+To Dre. One who, time and again, reminds me I am a 
+force to be reckoned with, especially when I forget 
+myself. 
+Thank you, thank you, and thank you to all my girls; Nadia, 
+Isis and Precious. Y ou are present at the drop of a dime 
+whether to cry or laugh. Y our time is more valuable than 
+any available cryptocurrency and, as a result, I am rich 
+beyond measure.  
+I love you all, 
+Syd 
+ 2
+Appreciation  
+I would like to begin with a loving  thank you to you, 
+Sydney, for having confidence in me to be a part of this 
+project. But especially for your friendship through all the 
+rollercoaster rides life has given us thus far. May we 
+continue to successfully weather all these storms. 
+To my parents, Rocko and Blondie, thank you for raising 
+me to be a critical thinker and courageous person. 
+A special tribute, undoubtedly, to my husband Jaspar. 
+Thank you for your everlasting support and patience 
+throughout all my moods. 
+Of course, the most precious for last. A very special 
+dedication to my only son, Tommy, your joy of life is 
+inspiring and I admire your ability to forgive and never 
+hold a grudge for too long. My greatest joy is watching 
+you grow into the wonderful young man I imagine you will 
+be. And know that I aspire daily to be the best mom I can 
+be: one you both need and deserve.  
+I love you guys with all my heart and am infinitely grateful 
+for your presence in this life.  
+Yvonne 
+ 3
+=== PAGE 3 ===
+To our unlikely and unwitting teachers in this life.  
+Yvonne and I would like to extend an acknowledgment to 
+those who never had our best interests in mind.  
+We have surpassed and surmounted 100% of all the trials 
+and tribulations that have been doled out thus far.  
+Without those adversaries in our lives, we may never have 
+uncovered the potential within each of us.  
+Regards,  
+Syd and Yvonne 
+ 4
+Table of Contents 
+1. Blockchain 
+2. Banking 
+3. Investing 
+4. Coins & Tokens 
+5. Wallets 
+6. Exchanges 
+7. Trading 
+8. NFT’s 
+9. Notable Characters 
+ Glossary 
+ 5
+=== PAGE 4 ===
+ 6
+Intro to The Bitcoin Barb’s Beginners Guide to Crypto 
+I first entered the crypto space in 2017. I had no idea 
+what I was getting myself into. Fortunately, the years I 
+invested are priceless. Not only did I learn much about 
+the crypto space, I received an education in traditional 
+finance as well. 
+LISTEN... I’m not an expert. It’s hard to be an expert at 
+crypto because there are so many facets that are 
+evolving daily. I’m just someone who spent the better half 
+of the last decade dedicating myself to understanding 
+finance and investments. I’ve been fortunate enough to 
+learn from some of the industry's most provocative people 
+who have given me incredible insight into what this world 
+has to offer.  
+What I can say is, I am a bull. I believe crypto is the future 
+of finance.  Something I've been shouting from the 
+rooftops since 2018. As a result, I have been chastised 
+and jeered online, until recent years. Now, in 2023,  
+people can see this industry is taking off! Despite the 
+current bear run, many people are familiar with the term 
+crypto but the ins and outs of what it is eludes them.  
+I knew I had to find a way to bridge the understanding 
+gap and simplify what the world of crypto has to offer to 
+everyone. In my research, I discovered what stops most 
+people from investing: fear of losing money, volatility of 
+the markets compounded by a  lack of understanding and 
+knowledge. The world of cryptocurrency is incredibly vast  
+with new terminology that has never heard before. 
+Imagine our grandparents trying to keep up with modern-
+day slang and trends. It's exhausting. The speed at which 
+this space is growing gives the impression the industry is 
+too big to tackle. Each new development, a rabbit hole 
+can be found. It can be challenging to remember all the 
+concepts you want to research as there can be many 
+aspects to learn.  As big as it may be, it's not too big to 
+tackle.  
+ 7
+=== PAGE 5 ===
+I decided to break the terminology down into 
+manageable bite-sized pieces. I recommend you use the 
+spaces provided to write notes. Reminding yourself of 
+which rabbit holes you wish to delve deep into, trust me, 
+you will want to take notes. 
+ 8
+There are four ways you can read this book. 
+1. Front to Back - The guide is separated into several 
+sections which explain concepts related to each other. 
+2. Follow the Rabbit - Throughout the guide, the bottom 
+of each page holds additional information about the 
+terms you may have read and are not familiar with. 
+Follow the rabbit, research the term until satisfied. 
+3. The Glossary - Search the glossary for terms and page 
+numbers you want clarified, flip to that page to become 
+more comfortable with the concept. 
+4. Not at all - Put it on your shelf, let it collect dust... at 
+least you bought my book, right?  
+All jokes aside, this industry is growing and knowing these 
+valuable terms and tips will help you uncover what 
+interests you the most about cryptocurrency.  
+I would be doing you a disservice if I didn't stress that this 
+is a high-risk industry, and it is not for the faint of heart. 
+Y ou need a level head and patience. Y ou need to 
+'DYOR' :DO YOUR OWN RESEARCH. Diligently, without 
+fail.  
+With that I wish you the warmest welcome to the 
+wonderful world of crypto.  
+Sydney, TheBitcoinBarbie, Csuk 
+ 9
+=== PAGE 6 ===
+ 10
+Blockchain 
+ 11
+=== PAGE 7 ===
+ 
+Blockchain effectively works to create a system which confirms 
+data or asset exchange written into blocks which create a 
+chain of transactions on a public blockchain. This allows a user 
+to follow the asset right to its first transaction. Simply put, the 
+money can always be traced on a public blockchain. On a 
+private blockchain, the transaction can be seen but not the 
+locations. Private blockchain is strictly meant to confirm the 
+transfer of an asset, not from or to whom it was sent.
+ 
+ 12
+O See 'How Does Blockchain Work?’ on page 14 
+O See ‘Privacy Coins‘ on page 150 
+O See ‘Asset’ on page 286 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 13
+=== PAGE 8 ===
+ 
+Imagine that we're kids playing a game with some of our 
+friends. We each have a notebook where we keep track of our 
+scores. Sadly, we don't trust each other to be honest, so we 
+ask an adult to watch us play and log the scores into a special 
+notebook. It is available for us to view anytime but not alter.  
+Now we feel confident  knowing that the scores are correct.  
+Blockchain, to a degree, works the same way, except, instead 
+of a game, it's used for  buying and selling products and 
+services online. Instead of a notebook, it uses a special 
+computer program that keeps track of all the transactions on a 
+public ledger. And instead of an adult, it uses lots of different 
+computers all over the world to verify and time-stamp the 
+transactions, ensuring no one is cheating. In fact, it is 
+practically impossible to cheat or steal because the ledger is 
+available to all to see but not alter, just like scores in the 
+notebook. 
+ 14
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 15
+=== PAGE 9 ===
+ 
+A blockchain ledger is a distributed digital ledger that records 
+transactions on multiple computers in a decentralized network. 
+Each transaction is verified by network participants, called 
+nodes, and added to a block of data in a sequential and 
+immutable manner. The blocks are linked together in a chain, 
+forming a secure and transparent record of all transactions 
+that have occurred on the network. The use of cryptography 
+ensures the integrity and security of the data on the 
+blockchain, making it resistant to tampering and fraud. 
+Blockchains are used for a variety of purposes, including 
+cryptocurrency transactions, supply chain management, and 
+digital identity verification.
+ 
+ 16
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 17
+=== PAGE 10 ===
+A PoW system, participants called "miners" use powerful 
+computers to compete against each other to solve complex 
+mathematical problems. The first miner to solve the problem is 
+rewarded with cryptocurrency, and their solution is added to 
+the blockchain as a new block of validated transactions. The 
+difficulty of the mathematical problems is designed to 
+increase over time as more miners join the network, ensuring 
+that the overall network has enough computational power to 
+maintain its security and integrity. However, the energy 
+consumption required for PoW mining has become a concern 
+for some, as it can be resource-intensive and have negative 
+environmental impacts. Despite these concerns, PoW remains a 
+popular consensus mechanism for many blockchain networks, 
+including Bitcoin and Ethereum. It is known for being highly 
+secure and resistant to malicious attacks, making it a popular 
+choice for networks that require a high degree of security and 
+trust. 
+ 18
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 19
+=== PAGE 11 ===
+Each block contains a record of multiple transactions that 
+have been validated and verified by miners on the network. 
+When a block is added to the blockchain, it is given a unique 
+hash, which is calculated based on the contents of the block. 
+This hash serves as a digital fingerprint for the block, allowing 
+it to be easily identified and verified as part of the blockchain. 
+Blocks are created through the process of mining, in which 
+miners compete to solve a complex mathematical problem in 
+order to add a new block to the blockchain. Once a block is 
+successfully added, it becomes a permanent part of the 
+blockchain, forming a chronological chain of transaction 
+records that is secure, transparent, and decentralized. 
+ 20
+O See ‘Hash’ on page 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 21
+=== PAGE 12 ===
+Hashes are used to verify the integrity and immutability of 
+blockchain data. Once a block of transactions is added to the 
+blockchain, its hash is calculated and stored in the following 
+block. If any of the data in the original block is altered, the 
+hash will also change, alerting the network that the data has 
+been tampered with. In addition to their role in verifying the 
+integrity of blockchain data, hashes are also used in other 
+aspects of cryptocurrency, such as mining. In mining, miners 
+compete to solve complex mathematical problems in order to 
+add a new block to the blockchain. The first miner to solve the 
+problem creates a new block and earns cryptocurrency as a 
+reward, with the solution to the problem being the hash of the 
+new block. 
+ 22
+O See ‘Mining’ on page 28 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 23
+=== PAGE 13 ===
+In cryptocurrency mining, a target hash refers to the goal that 
+miners are trying to achieve in order to add a new block to the 
+blockchain. The target hash is a specific value that is set by 
+the network difficulty level and represents the level of difficulty 
+required to solve a mathematical problem and add a new 
+block to the blockchain. In order to add a block to the 
+blockchain, miners must generate a hash value for that block 
+that is below the target hash. This involves repeatedly hashing 
+the block data using different inputs until a hash value is 
+generated that meets the target hash criteria. The target hash 
+is adjusted periodically based on the overall mining power of 
+the network, in order to maintain a consistent block time and 
+prevent the network from being overwhelmed by an excess of 
+computing power. The target hash plays a critical role in the 
+mining process, as it determines the level of difficulty required 
+to add new blocks to the blockchain and ensures the security 
+and integrity of the network. 
+ 24
+O See ‘Minting’ on page 26 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 25
+=== PAGE 14 ===
+Minting crypto refers to the process of creating new units of a 
+cryptocurrency, usually through the use of a Proof of Stake 
+(PoS) consensus mechanism. Unlike Proof of Work (PoW) 
+mining, which involves solving complex mathematical puzzles 
+to validate transactions and create new blocks, PoS minting 
+requires users to hold a certain amount of the cryptocurrency 
+and "stake" it in a wallet. Users are then randomly selected to 
+validate transactions and create new blocks, and are 
+rewarded with newly minted cryptocurrency in proportion to 
+the amount they have staked. The goal of PoS minting is to 
+create a more energy-efficient and sustainable way to 
+validate transactions and create new blocks, while also 
+incentivizing users to hold and use the cryptocurrency.
+ 
+ 26
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 27
+=== PAGE 15 ===
+Mining pools are groups of miners who combine their 
+computational resources to increase their chances of mining 
+new blocks and receiving block rewards. Crypto like Bitcoin  
+use a proof-of-work (PoW) consensus algorithm, which requires 
+miners to solve complex mathematical problems in order to 
+validate transactions and add new blocks to the blockchain. 
+Mining these blocks requires a significant amount of 
+computational power, electricity, and specialized hardware. 
+Mining pools allow individual miners to pool their resources 
+and increase their chances of successfully mining a new block. 
+When a block is successfully mined, the reward is distributed 
+among the participating miners based on their contribution to 
+the pool. By pooling resources, miners can reduce their 
+variance in rewards and receive more consistent payouts, 
+which can be especially important for smaller miners who may 
+not have the resources to mine on their own.  
+ 28
+O See ’Target Hash’ on page 24 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 29
+=== PAGE 16 ===
+A halving is a pre-coded event in the blockchain protocol that 
+reduces the reward given to miners for mining a block by 50%, 
+occurring every 210,000 blocks or roughly every four years, 
+effectively reducing the inflation rate of the cryptocurrency 
+and potentially increasing its scarcity and value. 
+ 30
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 31
+=== PAGE 17 ===
+In computing and technology, TPS refers to the number of 
+transactions or operations that a system can handle or process 
+within a given second. It is often used to measure the 
+performance or capacity of a system or network, particularly in 
+the context of financial transactions, such as credit card 
+processing or stock trading. For example, a high-frequency 
+trading system may need to process thousands of stock trades 
+per second, while a payment processing system may need to 
+handle several hundred transactions per second to meet the 
+demands of its customers. The TPS metric is crucial in 
+determining the efficiency and speed of such systems. 
+ 32
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 33
+=== PAGE 18 ===
+A transaction ID (or TxID) is a unique identifier that is assigned 
+to a specific transaction on the blockchain. Each transaction 
+on a blockchain, such as Bitcoin or Ethereum, is assigned a 
+unique TxID that serves as a permanent record of the 
+transaction. A transaction ID is generated when a transaction 
+is submitted to the blockchain network, and is used to track 
+the progress of the transaction as it is confirmed by network 
+nodes and added to the blockchain. Users can use a 
+transaction ID to check the status of their transaction, such as 
+whether it has been confirmed by the network, and to verify 
+that the transaction has been completed successfully.
+ 
+Transaction IDs are also important for auditing and accounting 
+purposes, as they provide a permanent record of every 
+transaction that occurs on the blockchain. They are typically 
+made up of a long string of characters, and can be easily 
+searched and verified using blockchain explorers or other 
+tools. 
+ 34
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 35
+=== PAGE 19 ===
+Layer 1 refers to the underlying blockchain infrastructure that 
+powers a cryptocurrency network. This layer includes the basic 
+protocols, consensus mechanisms, and data structures that 
+enable transactions to be validated and recorded on the 
+blockchain. Layer 1 technologies can impact key factors such 
+as transaction speed, security, and scalability, and can play a 
+critical role in the success of a cryptocurrency project. 
+Examples of Layer 1 protocols include Bitcoin's Proof of Work 
+consensus mechanism, Ethereum's Proof of Stake consensus 
+mechanism, and the Directed Acyclic Graph (DAG) structure 
+used by some newer blockchain platforms. By optimizing Layer 
+1 technologies, developers can enhance the functionality and 
+performance of their blockchain networks, enabling them to 
+better meet the needs of their users. 
+ 36
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 37
+=== PAGE 20 ===
+SHA-256 is a type of code that is used to keep things secret 
+and secure on the internet. It works a bit like a secret code 
+that only certain people can read. When you send a message 
+or data over the internet, SHA-256 can be used to "scramble" 
+it up so that no one else can read it. 
+Think of it like a puzzle. SHA-256 takes your message and 
+breaks it up into tiny pieces, mixes them all up, and puts them 
+back together in a way that only the person with the secret 
+code can unscramble. This makes sure that your message stays 
+safe and private while it's being sent over the internet. 
+ 38
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 39
+=== PAGE 21 ===
+In a PoS system, participants called "validators" are chosen to 
+validate transactions based on the amount of cryptocurrency 
+they have staked as collateral. Validators are incentivized to 
+act honestly, as any malicious behavior would result in them 
+losing their staked cryptocurrency. PoS is considered to be 
+more energy-efficient than PoW, as it does not require the 
+massive computational power needed for mining. Additionally, 
+PoS can be more decentralized, as it is often easier and more 
+affordable for individuals to participate in the network as 
+validators. However, PoS is also considered to be more 
+vulnerable to certain types of attacks, such as the "nothing at 
+stake" problem, where validators can potentially double-spend 
+their staked cryptocurrency without penalty. To address this, 
+PoS systems often include additional security measures such as 
+slashing, where validators can lose a portion of their staked 
+cryptocurrency as a penalty for malicious behavior. 
+ 40
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 41
+=== PAGE 22 ===
+Noding, also known as staking, is the process of holding a 
+cryptocurrency in a digital wallet and participating in the 
+network's consensus algorithm by validating transactions and 
+adding new blocks to the blockchain. By doing so, participants 
+can earn rewards in the form of more cryptocurrency. This 
+process helps to secure the network, promote decentralization, 
+and incentivize participation in the blockchain ecosystem. 
+ 
+ 42
+O See ’Staking’ on page 112 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 43
+=== PAGE 23 ===
+ERC-20 is a technical standard used for creating tokens on 
+the Ethereum blockchain. It is a set of rules and guidelines that 
+must be followed by developers who wish to create their own 
+custom tokens on the Ethereum platform. ERC-20 tokens are 
+fungible, meaning that each token is identical and 
+interchangeable with every other token of the same type. They 
+can be used for a variety of purposes, such as creating new 
+cryptocurrencies, representing assets such as real estate or 
+stocks, or creating utility tokens that can be used to access 
+specific services or products. ERC-20 tokens have become 
+one of the most popular types of tokens on the Ethereum 
+platform, and are widely used in the cryptocurrency industry. 
+They are supported by most Ethereum wallets and exchanges, 
+and can be easily traded or transferred between users. 
+ 44
+O See ’Tokens’  on page 146 
+O See ’Blockchain’  on page 12 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 45
+=== PAGE 24 ===
+Smart contracts are designed to automate the process of 
+verifying and executing the terms of a contract, without the 
+need for intermediaries or third-party institutions. They operate 
+on the basis of "if-then" conditions, meaning that when certain 
+pre-defined conditions are met, the contract will automatically 
+execute the terms of the agreement. Smart contracts can be 
+used in a variety of applications, from simple transactions such 
+as payment processing, to more complex scenarios such as 
+supply chain management and governance. They are 
+particularly useful for industries that require a high degree of 
+transparency, security, and trust, such as finance, real estate, 
+and supply chain management. 
+ 46
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 47
+=== PAGE 25 ===
+DAO, is an acronym for decentralized autonomous 
+organization. DAOs are managed by their members, who hold 
+governance tokens that represent their ownership and 
+decision-making power within the organization. These tokens 
+allow members to vote on important decisions related to the 
+DAO, such as the allocation of resources, the distribution of 
+profits, and the selection of new members. One of the key 
+benefits of DAOs is that they are highly transparent and 
+resistant to censorship or manipulation. Because the rules of 
+the DAO are encoded on a blockchain, they cannot be 
+changed or manipulated by any single individual or entity, and 
+all transactions and decisions are publicly visible and verifiable 
+on the public ledger. DAOs have become increasingly popular 
+in the cryptocurrency space, with many projects using them to 
+govern their development and decision-making processes. 
+They offer a new model for decentralized, community-driven 
+organizations that are highly flexible, transparent, and secure. 
+ 48
+O See ’Governance Token’  on page 156 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 49
+=== PAGE 26 ===
+Scalability is a major issue since most blockchain networks, 
+such as Bitcoin and Ethereum, have a limited capacity to 
+process transactions and data due to their consensus 
+algorithms, data storage requirements, and other technical 
+limitations. To address scalability issues, various Layer 2 
+solutions have been proposed. These are off-chain solutions 
+that allow for the processing of transactions and data outside 
+of the main blockchain network, while still maintaining the 
+security and integrity of the network. Another option is 
+Consensus algorithm upgrades: Some blockchain networks are 
+exploring new consensus algorithms, such as proof-of-stake 
+(PoS), that are more efficient and scalable than the traditional 
+proof-of-work (PoW) consensus algorithm used by Bitcoin and 
+other early blockchain networks. Improving scalability is an 
+important step towards achieving mass adoption of 
+blockchain, as it enables more users and businesses to use 
+blockchain networks without experiencing slow processing 
+times or high transaction fees. 
+ 50
+O See ’Layer-2’  on page 52 
+O See ’Sharding’ on page 70 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 51
+=== PAGE 27 ===
+Layer 2 solutions can take many forms, including state 
+channels, sidechains, and rollups. These solutions work by 
+reducing the number of transactions that need to be 
+processed and verified on the Layer 1 blockchain, therefore 
+allowing multiple transactions to be processed off-chain and 
+then settled on the Layer 1 blockchain in a single batch. Layer 
+2 solutions are an important tool for improving the scalability 
+and performance of blockchain networks, while still 
+maintaining the security and decentralization of the underlying 
+Layer 1 network. 
+ 52
+O See ’Sidechains’  on page 72 
+O See ’Rollups’  on page 74 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 53
+=== PAGE 28 ===
+The layer-2 protocol is built on top of a blockchain, such as 
+Bitcoin or Litecoin. It is designed to enable faster and cheaper 
+transactions between parties by creating a network of 
+payment channels that can be used to transact without having 
+to write every transaction on the blockchain. When two parties 
+establish a payment channel, they can then transact with each 
+other off-chain, meaning that their transactions are not 
+recorded on the underlying blockchain until the channel is 
+closed. This allows for faster and cheaper transactions, as the 
+parties do not have to pay the high fees associated with 
+writing every transaction on the blockchain. The Lightning 
+Network is seen as a potential solution to some of the 
+scalability issues facing blockchains, as it enables a greater 
+number of transactions to be processed off-chain, without 
+having to increase the capacity of the underlying blockchain. 
+ 54
+O See ’Layer-2’ on page 52 
+O See ’Scalability’ on page 50 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 55
+=== PAGE 29 ===
+Wallets like metamask and Trust Wallet are considered DApps 
+since they cannot be controlled by their creator and only by 
+the private key holder. Private keys are never stored with a 
+DAPP since it would centralize the information being stored.
+ 
+There are several types of DApps (decentralized applications), 
+including: 
+ 
+Financial DApps: These are DApps that deal with financial 
+services, such as cryptocurrency wallets, like Trust Wallet or 
+Meta Mask, decentralized exchanges (DEXs), lending 
+platforms, and prediction markets. 
+ 
+Gaming DApps: These are DApps that offer blockchain-based 
+games and gaming platforms, allowing players to use 
+cryptocurrencies and earn rewards. 
+ 
+Social DApps : These are DApps that allow users to interact 
+with one another on a decentralized social network, chat 
+platform, or other forms of communication.  
+ 56
+O See ’Exchanges’ on page 184 
+O See ’OpenSea’ on page 260 
+O See ’Rarible’ on page 262 
+O See ’Swap’ on page 196 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 57
+=== PAGE 30 ===
+ 
+Segregated Witness, or SegWit, is a proposed solution to the 
+issue of scalability in the Bitcoin network. It involves separating 
+transaction signature data from the block, allowing for more 
+transactions to be processed within a single block. This results 
+in lower transaction fees and faster confirmation times. SegWit 
+also fixes the transaction malleability bug, which allows a 
+malicious user to modify the transaction ID, leading to 
+potential problems for the network. In summary, SegWit is an 
+important update to the Bitcoin network that improves its 
+efficiency and security. 
+ 58
+O See ’Layer-2’ on page 52 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 59
+=== PAGE 31 ===
+Directed Acyclic Graph (DAG) is a type of data structure used 
+by some blockchain-based systems, such as IOTA and Nano, as 
+an alternative to the traditional blockchain structure. In a 
+DAG-based system, transactions are not grouped into blocks, 
+but rather, each transaction is validated individually and 
+directly by previous transactions, creating a network of 
+interlinked transactions that forms a directed acyclic graph. 
+This approach allows for higher transaction throughput and 
+eliminates the need for miners or validators, which can reduce 
+transaction fees and increase the efficiency of the system. 
+ 60
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 61
+=== PAGE 32 ===
+IOTA is a decentralized, open-source cryptocurrency designed 
+for the Internet of Things (IoT) ecosystem, utilizing a unique 
+distributed ledger technology called Tangle, which is a 
+Directed Acyclic Graph (DAG) that allows for feeless and fast 
+transactions between devices without the need for miners to 
+validate transactions. 
+ 62
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 63
+=== PAGE 33 ===
+A bridge is a technology that enables the transfer of digital 
+assets between two different blockchain networks that may 
+use different protocols or standards. Bridges can be used to 
+connect different cryptocurrency networks, allowing users to 
+transfer assets between them without the need for a 
+centralized exchange. For example, a bridge can be used to 
+transfer tokens from the Ethereum network to the Binance 
+Smart Chain network, or from the Bitcoin network to the 
+Ethereum network. Bridges can help to improve interoperability 
+and liquidity in the cryptocurrency ecosystem, by allowing 
+assets to move more freely between different networks and 
+platforms. However, they can also introduce new risks, such as 
+the potential for security vulnerabilities or regulatory 
+uncertainty. 
+ 64
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 65
+=== PAGE 34 ===
+A Parachain is a type of specialized blockchain that runs in 
+parallel to a primary blockchain network, such as the Polkadot 
+or Kusama networks. Parachains are designed to improve the 
+scalability, interoperability, and functionality of the primary 
+blockchain network. Parachains are connected to the primary 
+blockchain network through a shared security mechanism 
+called a relay chain. This allows them to benefit from the 
+security and consensus mechanisms of the primary blockchain, 
+while also enabling them to operate independently and 
+process transactions and smart contracts in a more 
+specialized way.
+ 
+Parachains can be used to support a wide range of 
+decentralized applications, such as decentralized finance 
+(DeFi), non-fungible tokens (NFTs), and gaming, among others. 
+They can also be used to support cross-chain interoperability, 
+allowing digital assets and data to be transferred more easily 
+between different blockchain networks.
+ 
+ 66
+O See ’Layer-2’ on page 52 
+O See ’Scalability’ on page 50 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 67
+=== PAGE 35 ===
+Parathreads are a parallel processing mechanism used in 
+blockchain technology that enables faster and more efficient 
+processing of transactions and smart contracts. In traditional 
+blockchain networks, transactions and smart contracts are 
+processed linearly, leading to slow processing times and 
+limited throughput. Parathreads allow for parallel processing, 
+which means multiple transactions can be processed 
+simultaneously, resulting in faster and more efficient 
+processing.
+ 
+To achieve this, a separate section of the blockchain network is 
+allocated to a specific set of transactions or smart contracts, 
+allowing them to be processed independently and concurrently 
+without interfering with each other. This method enhances the 
+performance and scalability of blockchain networks, 
+particularly those using the proof-of-stake consensus 
+algorithm, and reduces the costs and resource requirements 
+associated with running a blockchain node, making it easier 
+for more users to participate in the network. 
+ 68
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 69
+=== PAGE 36 ===
+Sharding is a technique used in blockchain technology to 
+improve scalability and increase transaction speed. It involves 
+splitting a blockchain network into smaller, more manageable 
+parts called shards, each of which is capable of processing 
+transactions independently. By breaking up the network in this 
+way, more transactions can be processed simultaneously, 
+reducing congestion and increasing overall throughput. Each 
+shard contains a subset of the blockchain's data, and nodes in 
+the network are responsible for validating transactions within 
+their assigned shard. Sharding is seen as a promising solution 
+to the scalability issues that have plagued some blockchain 
+networks, particularly those with high transaction volumes, and 
+is being implemented in several new blockchain projects. 
+ 70
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 71
+=== PAGE 37 ===
+Sidechains in blockchain are alternative chains that run 
+parallel to the main blockchain, enabling developers to create 
+and deploy decentralized applications without burdening the 
+main chain with additional transactional data. They allow for 
+increased scalability and throughput, as well as the potential 
+to develop specific use cases tailored to different industries or 
+needs. Sidechains typically have their own consensus 
+mechanism, which is different from the main blockchain, and 
+operate on a trustless model where transactions can be 
+securely transferred between the main chain and the 
+sidechain. This allows for interoperability between different 
+blockchain networks, enabling a more seamless exchange of 
+value and data across various platforms.  
+ 72
+O See ’Layer-2’ on page 52 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 73
+=== PAGE 38 ===
+A roll up is a Layer 2 scaling solution for blockchains that 
+aggregates transactions and data from multiple transactions 
+off-chain and then submits a single transaction with all the 
+data to the main blockchain, improving the efficiency and 
+scalability of the network.  
+ 74
+O See ’Layer-2’ on page 52 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 75
+=== PAGE 39 ===
+ 76
+Banking 
+ 
+ 77
+=== PAGE 40 ===
+Fiat currency is not backed by a physical commodity such as 
+gold or silver. The value of fiat currency is based on the 
+perceived trust and confidence in the government that issues 
+it, rather than on any intrinsic value of the currency itself.
+ 
+Fiat currency is used in most countries around the world and is 
+typically represented by paper bills and coins, although it can 
+also take the form of digital currencies. Fiat currency is 
+generally accepted as a medium of exchange for goods and 
+services, and can be used to settle debts or taxes.
+ 
+One of the key features of fiat currency is that its value is 
+determined by the supply and demand in the market, and can 
+be subject to inflation or deflation due to factors such as 
+changes in government policies, economic conditions, and 
+market forces. 
+ 78
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 79
+=== PAGE 41 ===
+Goods and services refer to the two primary types of products 
+that are bought and sold in an economy. Goods are physical 
+products that can be touched, seen, and typically consumed or 
+used by the buyer, such as food, clothing, or electronics. 
+Services, on the other hand, are intangible products that are 
+typically consumed in the moment they are provided, such as 
+haircuts, legal advice, or consulting services. While goods and 
+services are distinct categories, they are often produced and 
+consumed together, and the two categories are typically 
+analyzed together in economic studies.
+ 
+ 80
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 81
+=== PAGE 42 ===
+The Fed has several important responsibilities, including setting 
+interest rates, regulating banks, and supervising the overall 
+health of the financial system. It does this by controlling the 
+money supply, buying and selling government securities, and 
+providing loans to banks. In simpler terms, the Fed acts as a 
+kind of "bank for banks," helping to keep the financial system 
+stable and healthy. Its actions can have a big impact on the 
+economy as a whole, affecting things like inflation, 
+employment, and economic growth. 
+ 82
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 83
+=== PAGE 43 ===
+Bank bonds are a type of debt security issued by banks to raise 
+capital. They are essentially IOUs that the bank sells to 
+investors, promising to pay back the principal amount plus 
+interest over a set period of time.
+ 
+Investors who buy bank bonds are lending money to the bank 
+and taking on the risk that the bank may default on the bond 
+or not be able to make interest payments. In return for taking 
+on this risk, investors are typically offered a higher interest rate 
+than they would receive from a bank deposit or government 
+bond.
+ 
+Bank bonds are an important source of funding for banks, as 
+they allow them to raise capital without having to dilute their 
+ownership or rely solely on customer deposits. However, they 
+also carry risks for investors and can be affected by changes in 
+interest rates, credit ratings, and other factors that impact the 
+bank's financial health. 
+ 84
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 85
+=== PAGE 44 ===
+Commodities refer to physical goods that are traded on 
+exchanges, such as agricultural products (wheat, corn, 
+soybeans), energy products (crude oil, natural gas), and 
+precious metals (gold, silver). These goods are typically traded 
+in standardized units, such as barrels, tons, or ounces, and 
+their prices are determined by supply and demand factors. 
+Commodities are often used as raw materials in the 
+production of other goods, making their prices sensitive to 
+changes in global economic conditions, weather patterns, and 
+geopolitical events. Investors can gain exposure to 
+commodities by investing in commodity futures contracts, 
+commodity exchange-traded funds (ETFs), or through other 
+specialized investment products. As a result, commodities can 
+offer diversification benefits to investors seeking to reduce the 
+overall risk of their portfolios.
+ 
+ 86
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 87
+=== PAGE 45 ===
+Stocks, or shares of stock, represent ownership in a company. 
+When individuals buy shares of a company's stock, they are 
+effectively buying a small piece of ownership in the company. 
+As such, the value of a stock can fluctuate based on a variety 
+of factors, including the company's financial performance, 
+industry trends, and broader economic conditions. Many 
+investors buy stocks as a way to build wealth over time, either 
+through capital gains (selling the stock at a higher price than it 
+was purchased for) or through dividends (regular payments 
+made to shareholders by the company). While investing in 
+stocks can be a potentially lucrative way to grow wealth, it's 
+also important for investors to understand the risks involved, as 
+stock prices can be volatile and there is always the potential 
+for losses. 
+ 88
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 89
+=== PAGE 46 ===
+An ETF is a type of investment fund that trades on an 
+exchange, similar to a stock. ETFs hold a basket of assets, such 
+as stocks, bonds, commodities, or currencies, and allow 
+investors to buy or sell shares in the fund throughout the 
+trading day. ETFs are designed to track the performance of a 
+specific index, such as the S&P 500 or the NASDAQ, by holding 
+a portfolio of stocks that mirror the index's composition. This 
+means that investors can gain exposure to a broad market or 
+sector by investing in an ETF that tracks it, rather than buying 
+individual stocks. ETFs are popular with investors because they 
+offer diversification, flexibility, and low costs compared to 
+other investment options. They are also transparent, as the 
+fund's holdings are publicly disclosed, and can be traded at 
+any time during market hours, allowing for quick entry and exit 
+from a position. 
+ 90
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 91
+=== PAGE 47 ===
+ 
+For example, if a bank has a reserve requirement of 10%, it 
+must only hold 10 cents of every dollar deposited by customers 
+as reserves, while lending out the remaining 90 cents to 
+borrowers. This system allows banks to create new money 
+through the lending process and is the foundation of modern 
+banking systems.
+ In terms of its effects on cryptocurrency, 
+fractional reserve banking does not have a direct impact as 
+cryptocurrencies are not subject to the same reserve 
+requirements as traditional fiat currencies. However, some 
+argue that fractional reserve banking has contributed to 
+inflation and the devaluation of fiat currencies, which in turn 
+has led to increased interest in decentralized, inflation-
+resistant cryptocurrencies like Bitcoin. 
+ 92
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 93
+=== PAGE 48 ===
+Bank bailouts refer to the process by which a government or 
+central bank provides financial support to a struggling or 
+failing bank, in order to prevent it from collapsing and causing 
+widespread economic damage. During a bank bailout, the 
+government may inject capital into the bank, guarantee its 
+liabilities, or purchase its assets in order to stabilize its 
+finances and restore confidence in the banking system. Bank 
+bailouts are typically undertaken in response to a financial 
+crisis or recession, and are seen as a way to prevent a 
+contagion effect, where the failure of one bank leads to the 
+failure of other banks and a wider economic downturn. 
+However, bank bailouts are often controversial, as they can be 
+seen as a form of moral hazard, where banks take on 
+excessive risk knowing that they will be bailed out if they run 
+into trouble.
+ 
+ 94
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 95
+=== PAGE 49 ===
+In order to sustain the bank, instead of seeking outside help, 
+the bank is able to use your average bank account holder’s 
+deposited funds to rescue it. This means that each person in 
+the bank is now liable for the banks losses. As a bank account 
+holder, you essentially are an investor in the bank. A bail in is 
+like you taking a loss on your investment for the greater good 
+of the idea. One example of a bank that has received a bail-in 
+is the Cyprus Popular Bank (also known as Laiki Bank) in 2013. 
+During the financial crisis, the bank had a large exposure to 
+Greek government bonds and suffered significant losses. In an 
+effort to recapitalize the bank, the government of Cyprus and 
+the European Union agreed to a rescue package that included 
+imposing losses on uninsured depositors and converting them 
+into equity in the bank. This was the first time in the European 
+Union that depositors had been subject to a bail-in instead of 
+a bailout. 
+ 96
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 97
+=== PAGE 50 ===
+The SEC was created in 1934 as part of the Securities 
+Exchange Act, following the stock market crash of 1929 and 
+the subsequent Great Depression. Its mission is to protect 
+investors, maintain fair, orderly, and efficient markets, and 
+facilitate capital formation. The SEC is responsible for 
+ensuring that publicly-traded companies provide accurate and 
+timely information to investors, and that financial markets 
+operate fairly and transparently. It oversees the registration 
+and regulation of securities exchanges, brokers, and dealers, 
+and also has the power to investigate and prosecute violations 
+of securities laws. In the context of cryptocurrencies and other 
+digital assets, the SEC has taken an increasingly active role in 
+regulating initial coin offerings (ICOs) and other digital 
+securities offerings. The SEC has stated that many ICOs and 
+other digital securities offerings may be subject to federal 
+securities laws, and has taken enforcement action against 
+numerous companies that have violated these laws.
+ 
+ 98
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 99
+=== PAGE 51 ===
+ 100
+Investing 
+ 
+ 101
+=== PAGE 52 ===
+In theory, anyone can invest in cryptocurrency. 
+Cryptocurrencies are decentralized and accessible through 
+the internet, so they are available to anyone with an internet 
+connection and a digital wallet. However, investing in 
+cryptocurrency can be risky, and it is important to do your 
+research and understand the potential risks before investing. In 
+practice, some countries have regulatory restrictions on 
+cryptocurrency investment, and certain exchanges may not be 
+available in certain regions. Additionally, some cryptocurrency 
+investments may require a minimum investment amount or may 
+only be available to accredited investors.
+ It is important to 
+note that cryptocurrency is a highly volatile asset class, and its 
+value can fluctuate rapidly. Therefore, it is important to have a 
+long-term investment strategy and not invest more than you 
+can afford to lose. As with any investment, it is always a good 
+idea to consult with a financial advisor before investing in 
+cryptocurrency. 
+ 102
+O See ’Risk Management’ on page 214 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 103
+=== PAGE 53 ===
+Investment types refer to different ways in which individuals 
+can invest their money to generate a return. Some common 
+investment types include stocks, bonds, mutual funds, 
+exchange-traded funds (ETFs), real estate, and alternative 
+investments such as commodities, hedge funds, or private 
+equity. Each investment type carries its own level of risk and 
+potential return, and investors typically need to consider 
+factors such as their investment goals, risk tolerance, and time 
+horizon when choosing which types of investments to pursue. A 
+diversified investment portfolio can include a mix of different 
+investment types, helping to balance risk and reward while 
+maximizing the potential for long-term growth.
+ 
+ 
+ 104
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 105
+=== PAGE 54 ===
+Residual income, also known as passive income or recurring 
+income, refers to income that is earned on a regular basis from 
+work that was already done once. This means that after the 
+initial work is completed, the income continues to be earned 
+without requiring ongoing effort or time. Residual income is 
+typically associated with activities such as investments, real 
+estate, and certain types of businesses or online platforms. For 
+example, a rental property owner can earn residual income 
+from monthly rent payments, while an author can earn residual 
+income from book royalties. Unlike traditional income, which is 
+earned through active work and effort, residual income can 
+continue to be earned even if the recipient is not actively 
+working or involved in the earning process. This makes it an 
+attractive source of income for many people, as it can provide 
+a steady stream of revenue over time without requiring 
+ongoing effort. 
+ 106
+O See ’Dividends’ on page 110 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 107
+=== PAGE 55 ===
+Examples of passive income include rental income from 
+property, dividends from stocks, interest income from savings 
+accounts or bonds, and income from certain types of 
+businesses or investments. In order to generate passive 
+income, one typically needs to invest time, money, or effort up 
+front to create a system or asset that can generate income 
+over time. Passive income is often viewed as a desirable form 
+of income because it can provide a steady stream of revenue 
+without requiring ongoing work or effort. However, it is 
+important to note that generating passive income typically 
+requires a significant investment of time or money up front, 
+and may not be a suitable option for everyone depending on 
+their financial situation and goals.
+ 
+ 108
+O See ’Passive Income’ on page 108 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 109
+=== PAGE 56 ===
+Dividends are payments made by a corporation to its 
+shareholders as a portion of its profits. They are typically paid 
+out on a regular basis, such as quarterly or annually, and are 
+calculated based on the number of shares held by each 
+shareholder. Dividends can be issued in the form of cash, 
+stock, or other property, and are usually determined by the 
+board of directors of the company. Dividends are a way for 
+companies to reward their shareholders and provide a return 
+on their investment, and can be an important source of income 
+for investors who rely on dividend-paying stocks to generate 
+regular cash flow.
+ 
+ 110
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 111
+=== PAGE 57 ===
+Crypto staking is the process of holding and locking up 
+cryptocurrency in a wallet or a smart contract for a specified 
+period of time to support the network's operations and earn 
+rewards. It is a mechanism used by some blockchain networks, 
+such as proof-of-stake (PoS) networks, to maintain network 
+security and achieve consensus. In return, they receive rewards 
+in the form of additional cryptocurrency or transaction fees. 
+The amount of rewards received depends on the amount of 
+cryptocurrency staked and the duration of the staking period.
+ 
+Staking helps to increase network security by incentivizing 
+users to hold and support the network. It also helps to reduce 
+the circulating supply of a particular cryptocurrency, which can 
+lead to an increase in the coin's value. However, staking also 
+carries risks, such as the possibility of losing staked funds due 
+to network vulnerabilities or price fluctuations.
+ 
+ 112
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 113
+=== PAGE 58 ===
+Yield farming is a relatively new concept in the world of 
+cryptocurrency and decentralized finance (DeFi) that allows 
+investors to earn a return on their cryptocurrency holdings by 
+providing liquidity to a DeFi platform. Yield farming typically 
+involves depositing cryptocurrency assets into a DeFi platform, 
+such as a liquidity pool, which is used to facilitate trades and 
+transactions within the platform. In exchange for providing 
+liquidity, investors are rewarded with a yield or return, which 
+can come in the form of additional cryptocurrency tokens or 
+fees generated from trades. Yield farming strategies can vary 
+widely depending on the specific platform and tokens 
+involved, and can involve a range of complex financial 
+instruments and strategies such as staking, liquidity provision, 
+and token swapping. While yield farming can potentially offer 
+high returns, it also involves significant risk due to the volatility 
+of cryptocurrency markets and the complexity of DeFi 
+platforms. 
+ 
+ 114
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 115
+=== PAGE 59 ===
+In the context of cryptocurrency, market cap refers to the total 
+value of all units of a particular cryptocurrency that are 
+currently in circulation and available for trading on the open 
+market. Market cap is calculated by multiplying the current 
+price of a cryptocurrency by its total circulating supply. For 
+example, if a cryptocurrency has a price of $10 per unit and a 
+circulating supply of 1 million units, its market cap would be $10 
+million. Market cap is an important metric for investors and 
+traders as it can provide insights into the popularity and 
+adoption of a cryptocurrency, as well as its potential for 
+growth and volatility. Generally, cryptocurrencies with a higher 
+market cap are considered more established and stable, while 
+those with a lower market cap may be riskier investments with 
+higher potential for growth. 
+ 116
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 117
+=== PAGE 60 ===
+Supply and demand is an economic principle that describes 
+the relationship between the availability of a product or 
+service (supply) and the willingness of consumers to purchase 
+it (demand). When the supply of a product or service exceeds 
+demand, prices tend to fall, as sellers compete for buyers. 
+Conversely, when demand exceeds supply, prices tend to rise, 
+as buyers compete for limited resources. The interaction 
+between supply and demand can be influenced by factors 
+such as consumer preferences, technological advances, 
+production costs, and government policies, and is a key driver 
+of market forces in a wide range of industries. 
+ 118
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 119
+=== PAGE 61 ===
+ 
+Total supply refers to the maximum number of units of a 
+particular cryptocurrency that will ever exist. Total supply is 
+determined at the creation of the cryptocurrency and can be 
+set to a fixed amount or programmed to increase or decrease 
+over time through various mechanisms. For example, Bitcoin 
+has a fixed total supply of 21 million units, which will be 
+reached through a process called mining over time. Total 
+supply is an important metric for investors and traders as it can 
+impact the value and scarcity of a cryptocurrency. Generally, a 
+smaller total supply can indicate that there is a limited supply 
+of the cryptocurrency available, which may put upward 
+pressure on its price. It is also important to note that total 
+supply is different from circulating supply, which refers to the 
+total number of units of a cryptocurrency that are currently in 
+circulation and available for trading on the open market. 
+ 120
+O See ’Mining’ on page 28 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 121
+=== PAGE 62 ===
+Circulating supply in the context of cryptocurrency refers to 
+the total number of units of a particular cryptocurrency that 
+are currently in circulation and available for trading on the 
+open market. For example, if a cryptocurrency has a total 
+supply of 100 million units and 50 million units have been 
+distributed to investors and are available for trading, then the 
+circulating supply of that cryptocurrency is 50 million units. 
+Circulating supply is an important metric for investors and 
+traders as it can impact the value and liquidity of a 
+cryptocurrency. Generally, a larger circulating supply can 
+indicate that there is a greater supply of the cryptocurrency 
+available, which may put downward pressure on its price. It is 
+also important to note that circulating supply can change over 
+time as new units of the cryptocurrency are mined, released, or 
+burned. 
+ 122
+O See ’Total Supply’ on page 120 
+O See ’Liquidity’ on page 218 
+O See ’Burning Tokens’ on page 158 
+O See ’Minting’ on page 26 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 123
+=== PAGE 63 ===
+It is the relative market share of a particular company or 
+product in a given industry or market. It is a measure of the 
+extent to which a company or product controls the market 
+compared to its competitors. Market dominance can be 
+measured in various ways, including by revenue, sales volume, 
+or market capitalization. A company or product with high 
+market dominance typically has a significant competitive 
+advantage, which can translate into higher profits, greater 
+pricing power, and greater influence over the direction of the 
+market. Market dominance is often used as a key metric for 
+analyzing market trends and evaluating the strength and 
+competitiveness of individual companies or products. 
+ 124
+O See ’Instrument’ on page 292 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 125
+=== PAGE 64 ===
+An airdrop is a distribution of free tokens or coins to the 
+holders of a particular cryptocurrency. Airdrops can be carried 
+out in various ways, but typically involve registering for the 
+airdrop, completing certain tasks, or meeting specific 
+requirements to be eligible to receive the free tokens. For 
+example, a project may require users to follow them on social 
+media, join their Telegram group, or hold a certain amount of a 
+specific cryptocurrency in their wallet.
+ Airdrops can be a way 
+for crypto projects to create awareness and build their 
+community. They can also provide a way for holders of a 
+particular cryptocurrency to diversify their holdings and 
+potentially receive some value for free. However, it is 
+important to note that not all airdrops are legitimate, and 
+some may be scams, so it is important to do thorough research 
+before participating in any airdrop.
+ 
+ 126
+O See ’Tokens’ on page 146 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 127
+=== PAGE 65 ===
+A rug pull is a type of scam that occurs in the cryptocurrency 
+world where the creators of a particular cryptocurrency 
+project exit the market with investors' money, leaving them 
+with worthless or near-worthless tokens. This is typically 
+accomplished by artificially inflating the value of the tokens, 
+using tactics such as false promises, social media hype, or fake 
+partnerships, before suddenly selling off their own holdings 
+and disappearing. As a result, investors are left with no option 
+but to sell their tokens at a loss, leading to a rapid and 
+significant drop in the value of the token. Rug pulls are often 
+associated with low-cap or newly launched cryptocurrencies 
+that lack proper regulation or scrutiny. As such, it is important 
+for investors to conduct due diligence and research any 
+cryptocurrency project before investing in it to minimize the 
+risk of falling victim to a rug pull. 
+ 128
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 129
+=== PAGE 66 ===
+ 130
+Coins & Tokens 
+ 131
+=== PAGE 67 ===
+ 
+It is based on a decentralized system known as blockchain 
+technology, which records and verifies transactions, allowing 
+secure and transparent peer-to-peer transactions without the 
+need for intermediaries such as banks or governments. 
+Cryptocurrencies such as Bitcoin, Ethereum, and many others 
+can be used for online purchases, investments, and as a store 
+of value.
+ 
+ 132
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 133
+=== PAGE 68 ===
+They are called "native" because they are integral to the 
+functioning of the blockchain itself, and are not dependent on 
+any external platform or network. For example, Bitcoin is a 
+native token of the Bitcoin blockchain, and Ether is a native 
+token of the Ethereum blockchain. These tokens are used to 
+pay transaction fees, incentivize network participants, and 
+execute smart contracts on their respective blockchains. In 
+essence, native tokens are the fuel that powers a blockchain 
+network, and they play a vital role in maintaining the integrity 
+and security of the network. They are also used as a store of 
+value, much like traditional currencies, and can be bought, 
+sold, and traded on various cryptocurrency exchanges. 
+ 134
+O See ’Layer-1’ on page 36 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 135
+=== PAGE 69 ===
+It was created in 2009 by an unknown person or group using 
+the pseudonym Satoshi Nakamoto. The transactions on the 
+Bitcoin network are verified by network nodes through 
+cryptography and recorded on a public ledger called the 
+blockchain. The supply of Bitcoin is limited to 21 million, and it 
+can be divided into smaller units called satoshis. Bitcoin is 
+often referred to as a store of value or digital gold, and is also 
+used as a medium of exchange in some cases. 
+ 136
+O See ’Coin Information’ on page 160 
+O See ’Satoshi’ on page 138 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 137
+=== PAGE 70 ===
+The use of Satoshis allows for greater flexibility in making 
+Bitcoin transactions, as it enables the currency to be divided 
+into smaller units. This is particularly useful when it comes to 
+micropayments or making transactions with very small amounts 
+of Bitcoin. For example, if the price of one Bitcoin is $50,000, 
+one Satoshi would be worth $0.0005. Satoshis are not only 
+used for Bitcoin, but can also be used to represent the smallest 
+unit of other cryptocurrencies that are derived from Bitcoin's 
+blockchain. 
+1 SAT  -  0.00000001BTC 
+10 SATS - 0.0000001BTC 
+100 SATS - 0.000001BTC 
+1000 SATS - 0.00001BTC 
+10000 SATS - 0.0001BTC 
+100000 SATS - 0.001BTC 
+1000000 SATS - 0.01BTC 
+10000000 SATS - 0.1BTC 
+100000000 SATS  - 1BTC 
+ 138
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 139
+=== PAGE 71 ===
+An altcoin is a term used to describe any cryptocurrency that is 
+an alternative to Bitcoin, the original and most well-known 
+cryptocurrency. Altcoins can be based on Bitcoin's underlying 
+technology (blockchain), but they can also use different types 
+of technology and algorithms to operate. Some examples of 
+popular altcoins include Ethereum, Litecoin, Ripple, and Bitcoin 
+Cash. Altcoins may have different features and purposes, such 
+as faster transaction times, lower fees, or specialized uses for 
+specific industries. 
+ 140
+O See ’Layer-2’ on page 52 
+O See ’Token’ on page 146 
+O See ’Stablecoin’ on page 148 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 141
+=== PAGE 72 ===
+Ethereum allows developers to build and deploy their own 
+decentralized applications, which operate independently of 
+any central authority, offering a new level of transparency, 
+security, and accessibility to users. The Ethereum network is 
+also home to a wide range of decentralized finance (DeFi) 
+applications, allowing users to access financial services such 
+as lending, borrowing, and trading, all powered by smart 
+contracts.  
+ 142
+O See ’Coin information’ on page 160 
+O See ’Smart Contracts’ on page 46 
+O See ’DApps’ on page 56 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 143
+=== PAGE 73 ===
+It was created to address the scalability limitations of existing 
+blockchain networks by using a unique consensus mechanism 
+called Proof of History (PoH) that allows for high-speed 
+transaction processing and confirmation times. Solana's 
+architecture also includes a virtual machine that can execute 
+smart contracts written in popular programming languages, 
+making it easier for developers to build and deploy DApps on 
+the network. The SOL token is the native cryptocurrency of the 
+Solana network and is used to pay for transaction fees and 
+incentivize validators to secure the network. Overall, Solana 
+aims to be a fast, secure, and scalable blockchain platform 
+that can support a wide range of decentralized applications 
+and use cases. 
+ 
+ 144
+O See ’Scalability’ on page 50 
+O See ’DApps’ on page 56 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 145
+=== PAGE 74 ===
+Tokens exist to better the existing blockchain through Layer 2 
+protocol. This means that you can create a new ecosystem 
+using an existing blockchain to back up your transactions. 
+Token transactions appear on the ERC-20 network (ethereum) 
+but can have different names or purposes. For example, Theta 
+Token’s gas token, TFUEL is gained by offering your excess 
+bandwidth to a content creator for their use in order to upload 
+their content on the Theta.tv ecosystem. In return, the content 
+is confirmed and uploaded by a noding program which gives 
+the owner of the bandwidth a reward of TFUEL. Instead of this 
+transaction being recorded on a “TFUEL” blockchain, TFUEL 
+uses the ERC-20 to confirm this transaction. 
+ 146
+O See ’Layer-2’ on page 52 
+O See ’Noding’ on page 42 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 147
+=== PAGE 75 ===
+Unlike other cryptocurrencies such as Bitcoin, which can be 
+very volatile in terms of their value, stablecoins aim to provide 
+a more predictable and stable investment option. This stability 
+is achieved by pegging the value of the stablecoin to a 
+specific asset or currency, and ensuring that its value does not 
+fluctuate much beyond the value of the asset or currency it is 
+pegged to.
+ 
+Stable coin examples: 
+Tether (USDT): Tether is the most popular stablecoin and is 
+pegged to the US dollar. 
+USD Coin (USDC): USDC is a stablecoin backed by US dollars 
+on a 1:1 ratio. 
+Paxos Standard (PAX): PAX is a stablecoin that is fully backed 
+by US dollars held in reserve and is also regulated by the New 
+Y ork State Department of Financial Services. 
+ 148
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 149
+=== PAGE 76 ===
+A privacy coin is a type of cryptocurrency that is designed to 
+protect the privacy and anonymity of its users. Privacy coins 
+use advanced cryptography and privacy-enhancing 
+technologies to obscure the sender and recipient of 
+transactions, as well as the amount of cryptocurrency being 
+transferred. Privacy coins typically offer features such as 
+stealth addresses, ring signatures, and zero-knowledge proofs, 
+which help to make transactions difficult to trace and link to 
+specific individuals or addresses. The primary goal of privacy 
+coins is to provide users with a high degree of privacy and 
+anonymity, which can be especially important for individuals 
+who are concerned about their financial privacy or who live in 
+countries with restrictive financial regulations. 
+ 150
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 151
+=== PAGE 77 ===
+CBDCs are different from cryptocurrencies, as they are issued 
+and backed by a central authority, rather than being 
+decentralized and governed by a network of users. CBDCs can 
+also be designed to incorporate features like programmable 
+smart contracts, which allow for more complex financial 
+transactions and automation.  
+Several central banks around the world are currently exploring 
+the potential of CBDCs, and some have already begun pilot 
+programs to test their feasibility and functionality. CBDCs have 
+the potential to transform the way we use and think about 
+money, but there are also concerns about privacy, security, 
+and the potential impact on the financial system. 
+ 152
+O See ’Fiat-Currency’ on page 78 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 153
+=== PAGE 78 ===
+The process of wrapping involves taking the underlying asset, 
+such as Bitcoin or Ethereum, and locking it up in a smart 
+contract on a blockchain. In exchange, the smart contract 
+issues a new token that represents the wrapped asset, with a 
+one-to-one value ratio. Wrapped coins are designed to enable 
+cross-chain interoperability, allowing assets to move between 
+different blockchain networks. For example, Wrapped Bitcoin 
+(WBTC) is an ERC-20 token that is backed by Bitcoin, and can 
+be traded on Ethereum-based decentralized exchanges 
+(DEXs) and other DeFi platforms. Similarly, Wrapped Ether 
+(WETH) is an ERC-20 token that is backed by Ether, and is used 
+as the primary currency for trading on many Ethereum-based 
+DEXs.
+ By wrapping assets, users can gain access to liquidity 
+and trading opportunities on different blockchain networks, 
+without having to sell or exchange their underlying assets. 
+ 154
+O See ’Asset’ on page  286 
+O See ’Liquidity’ on page 218 
+O See ’Token’ on page 146 
+O See ’Minting’ on page 26 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 155
+=== PAGE 79 ===
+In decentralized finance (DeFi) and other blockchain-based 
+platforms, governance tokens allow holders to propose and 
+vote on changes to the platform's protocol, such as changes to 
+the fees, rewards, or technical specifications. Governance 
+tokens can also be used to fund new projects or initiatives 
+within the platform, and to reward users who contribute to the 
+network in various ways, such as by staking or providing 
+liquidity.
+ Some examples of governance tokens include 
+MakerDAO's Maker (MKR), Uniswap's UNI, Compound's COMP, 
+and Aave's AAVE. These tokens are typically distributed 
+through a process known as a "liquidity mining" program, 
+where users provide liquidity to a platform and are rewarded 
+with governance tokens for their contributions.
+ However, they 
+also come with risks, as decisions made through governance 
+can impact the value and stability of the underlying platform 
+and its associated tokens. 
+ 156
+O See ’DAO’ on Page 48 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 157
+=== PAGE 80 ===
+Token burning is a process used by some blockchain projects to 
+decrease the supply of a particular cryptocurrency by 
+permanently removing some of the tokens from circulation. This 
+is typically achieved by sending tokens to an address that is 
+deemed unusable or "burning" them in a smart contract, 
+rendering them unspendable and untransferable.  The purpose 
+of token burning is to increase the scarcity and value of the 
+remaining tokens by reducing the overall supply. This can help 
+to maintain a healthy balance between supply and demand, 
+which can help to prevent inflation and potentially increase 
+the price of the cryptocurrency.
+ However, it is important to 
+note that token burning is not a guarantee of price 
+appreciation and can also have unintended consequences on 
+a project's ecosystem and community. 
+ 158
+O See ’Token’ on page 146 
+O See ’Smart Contract’ on page 46 
+O See ’Circulating Supply’ on page 122 
+O See ’Total Supply’ on page 120 
+O See ’Minting’ on page 28 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 159
+=== PAGE 81 ===
+Using CoinGecko or CoinMarketCap can help you invest in 
+crypto by providing you with important information about 
+various cryptocurrencies, including their market cap, price, 
+trading volume, and historical data. By analyzing this 
+information, you can get a better understanding of the 
+performance and potential of different cryptocurrencies, and 
+make more informed investment decisions. These platforms 
+also provide real-time updates on the latest news and 
+developments in the crypto industry, as well as user reviews 
+and ratings of different cryptocurrencies and exchanges. This 
+can help you stay up-to-date with the latest trends and 
+insights, and identify opportunities for investment and growth. 
+Ultimately, using CoinGecko or CoinMarketCap can help you 
+navigate the complex world of crypto investing and make more 
+informed and profitable investment decisions. 
+ 160
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 161
+=== PAGE 82 ===
+A crypto white paper is a detailed document that outlines the 
+concept, technology, and goals of a particular cryptocurrency 
+project. It typically provides a comprehensive description of 
+the project's vision, its target market, its unique features and 
+benefits, and how it will be implemented. In a crypto white 
+paper, you can expect to find information such as the project's 
+technical specifications, its consensus mechanism, its token 
+economics, and its road-map for development and adoption. It 
+may also include information on the project's team and 
+advisors, as well as its legal and regulatory compliance. 
+Essentially, a white paper is a way for cryptocurrency 
+developers to communicate their ideas and plans to potential 
+investors and users, in order to garner interest and support for 
+their project. 
+ 162
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 163
+=== PAGE 83 ===
+ 
+ 164
+Wallets 
+ 165
+=== PAGE 84 ===
+ 
+When choosing a crypto wallet, there are several factors to 
+consider. First and foremost, security should be a top priority. 
+Look for a wallet that offers strong security features, such as 
+two-factor authentication and encryption of private keys.
+ 
+Another important consideration is compatibility with the 
+cryptocurrencies you plan to hold. Some wallets only support 
+specific cryptocurrencies, so make sure the wallet you choose 
+supports the ones you plan to use. Ease of use is also 
+important. Look for a wallet with an intuitive interface and 
+clear instructions on how to use it. Some wallets may be more 
+complex than others, so consider your level of technical 
+expertise when choosing a wallet.
+  
+Finally, consider the reputation of the wallet provider. Look for 
+a provider with a strong track record of security and customer 
+support. Read reviews and feedback from other users to get a 
+sense of their experiences with the wallet. 
+ 166
+O See ’Trust Wallet’ on page 176 
+O See ’2FA’ on page 312 
+O See ’Cold Storage’ on page 170 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 167
+=== PAGE 85 ===
+ 
+Any assets stored on Binance, Crypto.com, FTX, etc. are all 
+considered to be held in a hot wallet. Consider your position 
+as an investor; if you are not actively day trading, it may be in 
+your best interest to transfer these coins to a cold storage 
+wallet. Coins left on exchanges are not in your control and 
+thus are at a greater security risk.  
+ 168
+O See ’Cold Storage’ on page 170 
+O See ’Binance’ on page 200 
+O See ’Crypto.com’ on page 198 
+O See ’FTX’ on page 204 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 169
+=== PAGE 86 ===
+ 
+A cold wallet is a type of cryptocurrency wallet that stores the 
+private keys used to access and manage cryptocurrency 
+offline. This could be in the form of a hardware wallet, which is 
+a physical device that stores the private keys, or a paper 
+wallet, which is a printed copy of the private keys. Cold wallets 
+are considered more secure than "hot wallets," which are 
+connected to the internet, because they are not susceptible to 
+hacking or malware attacks. Cold wallets and cold storage are 
+especially important for people who hold large amounts of 
+cryptocurrency, as they provide an added layer of security to 
+protect against potential threats. However, it's important to 
+remember that cold storage also comes with its own risks, such 
+as the potential for loss or damage to the physical device 
+storing the private keys. Examples of some of the most popular 
+cold storage are Trezor or Ledger. 
+ 170
+O See ’Private Keys’ on page 172 
+O See ’Hacking’ on page 314 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 171
+=== PAGE 87 ===
+In the instance of crypto, they are the proof that you own the 
+wallet you are accessing. Anyone who has access to these 
+keys are able to access the ownership end of data transfer. 
+Y ou must keep these keys secret as anyone who has access to 
+them is able to access and subsequently control your funds. 
+Always remember: not your keys, not your coin. 
+ 172
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 173
+=== PAGE 88 ===
+In crypto, data is the asset ownership. When a user wants to 
+receive cryptocurrency, they share their public key with the 
+sender. The sender then uses this public key to generate a 
+transaction that is sent to the blockchain network for 
+verification and processing. Once the transaction is verified 
+and added to the blockchain, the funds are transferred to the 
+public key owner's wallet. Public keys are the addresses sent 
+out in order to receive digital assets ie: cryptocurrencies/ nfts  
+ 174
+O See ’NFT’s’on page 252 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 175
+=== PAGE 89 ===
+Trust Wallet was founded in 2017 by Viktor Radchenko and 
+acquired by Binance in 2018. Trust Wallet offers a 
+decentralized and non-custodial approach to managing 
+cryptocurrency, meaning users retain full control over their 
+private keys and funds. The wallet supports hundreds of 
+cryptocurrencies, including Bitcoin, Ethereum, Binance Coin, 
+and many others, and offers a user-friendly interface, 
+convenient features, and robust security measures. 
+ 176
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 177
+=== PAGE 90 ===
+Created in 2016 by ConsenSys, a company founded by Joseph 
+Lubin. MetaMask operates with smart contracts. t is not only an 
+app for your device but also a browser extension. The Meta 
+Mask wallet is compatible with ERC-20, BNB, Polygon, 
+Avalanche xDai Chain, Arbitrum, Optimism and Fantom Opera. 
+Other blockchains may later be added to this list. MetaMask 
+also provides an easy-to-use interface for sending and 
+receiving Ether and ERC-20 tokens, and enables users to 
+interact with decentralized exchanges, lending platforms, and 
+other dApps directly from their browser or mobile device. 
+MetaMask serves as a key tool for users to participate in the 
+decentralized finance (DeFi) ecosystem and the wider world of 
+blockchain applications. 
+ 178
+O See ’Browser Extension’ on page 304 
+O See ’DApps’ on page 56 
+O See ’Smart Contracts’ on page 46 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 179
+=== PAGE 91 ===
+Y ou are also able to store NFTs here. Phantom works like most 
+other wallets in which you are given a set of private keys for 
+owner accessibility and control; and a set of public keys to 
+receive assets. Phantom Wallet provides users with a secure 
+and user-friendly interface for managing their Solana-based 
+cryptocurrency assets. It supports a wide range of Solana-
+based tokens and allows users to easily send and receive 
+transactions, view transaction history, and manage their wallet 
+settings. One notable feature of Phantom Wallet is its 
+seamless integration with Solana-based decentralized 
+applications (dApps). Users can easily connect to dApps within 
+the wallet and authorize transactions. 
+ 180
+O See ’Private Keys’ on page 172 
+O See ’Public Keys’ on page 174 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 181
+=== PAGE 92 ===
+ 182
+Exchanges 
+ 
+ 183
+=== PAGE 93 ===
+A crypto exchange is a digital platform that allows users to 
+buy, sell, and trade cryptocurrencies for other digital assets or 
+traditional currencies, such as the US dollar or euro. 
+ 
+Users can create an account on a cryptocurrency exchange 
+and deposit funds into it, typically using a bank transfer or 
+debit/credit card. They can then use these funds to buy or sell 
+cryptocurrencies, which are stored in a digital wallet on the 
+exchange. Crypto exchanges charge fees for their services, 
+including trading fees, deposit and withdrawal fees, and 
+sometimes account maintenance fees. Some exchanges also 
+offer advanced trading features, such as margin trading and 
+order types.
+ It is important to choose a reputable exchange 
+and take measures to secure your account, such as enabling 
+two-factor authentication and keeping your login credentials 
+safe. 
+ 184
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 185
+=== PAGE 94 ===
+In CEFI, financial transactions and activities are managed by a 
+centralized entity, such as a bank, financial institution, or 
+exchange. This centralized entity typically has control over the 
+flow of funds, the terms of transactions, and the overall 
+operation of the financial system. CEFI is in contrast to DeFi, or 
+Decentralized Finance, which is a financial system that is built 
+on a decentralized network, such as a blockchain, and is not 
+controlled by any central authority. CEFI offers a number of 
+benefits, such as increased security, faster transaction 
+processing times, and greater ease of use for users who may 
+not be familiar with decentralized systems. However, CEFI also 
+has some drawbacks, such as the potential for central 
+authorities to abuse their power or engage in unethical 
+behavior. 
+ 186
+O See ’DeFi’ on page 190 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 187
+=== PAGE 95 ===
+A CEX, or centralized exchange, is a platform for buying, 
+selling, and trading cryptocurrencies that is owned and 
+operated by a single entity. Centralized exchanges function as 
+intermediaries between buyers and sellers, matching orders 
+and facilitating transactions. They typically require users to 
+create an account and provide personal information, such as 
+identification documents, before they can begin trading. CEXs 
+are the most common type of cryptocurrency exchange and 
+offer a wide range of trading pairs, liquidity, and trading tools. 
+However, they also come with some drawbacks, including the 
+potential for hacks, the need for KYC (Know Y our Customer) 
+compliance, and a lack of control over user funds. 
+ 188
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 189
+=== PAGE 96 ===
+DEFI is a new type of financial system that allows people to 
+access financial services and products without the need for 
+intermediaries like banks or other traditional financial 
+institutions. DEFI applications are built on top of decentralized 
+blockchain networks, like Ethereum, and use smart contracts to 
+automate financial transactions and agreements.
+ 
+Some common examples of DEFI applications include 
+cryptocurrency exchanges, lending and borrowing platforms, 
+prediction markets, and insurance protocols. DEFI has the 
+potential to make financial services more accessible, 
+transparent, and affordable for everyone, regardless of their 
+location or financial status. 
+ 190
+O See ’Smart Contracts’ on page 46 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 191
+=== PAGE 97 ===
+A DEX, or decentralized exchange, is a cryptocurrency 
+exchange that operates on a decentralized blockchain 
+network, rather than a centralized server. In a DEX, users trade 
+cryptocurrencies directly with each other, without the need for 
+an intermediary. This is achieved through the use of smart 
+contracts, which automate the process of matching buyers 
+and sellers and executing trades. Because DEXs are 
+decentralized, they offer several benefits over centralized 
+exchanges, including greater security, privacy, and 
+transparency, as well as the ability to trade without the need 
+for KYC (know-your-customer) verification. However, DEXs can 
+be less user-friendly and have lower liquidity than centralized 
+exchanges, which can make it more difficult to execute trades 
+quickly and at favorable prices.
+ 
+ 192
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 193
+=== PAGE 98 ===
+ 
+P2P refers to a type of network where computers or devices 
+can communicate and share files or resources directly with 
+each other, without the need for a central server or 
+intermediary.
+ 
+In a P2P network, each computer or device is considered a 
+peer, and they can connect to each other using software that 
+allows them to share files, data, or other resources. P2P 
+networks are commonly used for sharing large files, such as 
+movies, music, and software, as well as for decentralized 
+applications and cryptocurrencies.
+ 
+One of the main benefits of P2P networks is that they are more 
+decentralized and resilient than traditional client-server 
+networks, as they do not rely on a single point of failure. 
+However, P2P networks can also pose security and privacy 
+risks, as they can be used for illegal file sharing or other 
+nefarious activities. 
+ 194
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 195
+=== PAGE 99 ===
+A swap can be executed in a variety of ways, depending on 
+the exchange or platform being used. For example, a user 
+could exchange Bitcoin for Ethereum directly on a DEX, using 
+a process known as a decentralized swap or a peer-to-peer 
+swap. Alternatively, a user could exchange Bitcoin for USD on 
+a CEX, using a process known as a centralized swap or a fiat-
+to-crypto swap.
+ 
+Swaps are a common way for cryptocurrency traders and 
+investors to diversify their holdings or take advantage of price 
+movements in different cryptocurrencies. However, it's 
+important to note that swaps can also carry risks, such as 
+market volatility and potential security issues with exchanges 
+or wallets used for the swap. As with any cryptocurrency 
+transaction, it's important to do your own research and due 
+diligence before executing a swap, and to use reputable and 
+secure platform  and exchanges. 
+ 196
+O See ’DEX’ on page 192 
+O See ’CEX’ on page 188 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 197
+=== PAGE 100 ===
+Crypto.com is a cryptocurrency exchange and financial 
+services platform that allows users to buy, sell, trade, and earn 
+interest on a range of cryptocurrencies. The platform offers a 
+variety of features, including a mobile app, a Visa debit card, 
+and a range of investment and trading options. With 
+Crypto.com, users can easily convert their cryptocurrencies 
+into fiat currency and spend it with their Visa card, making it a 
+convenient option for those looking to use their 
+cryptocurrencies for everyday transactions. The platform is also 
+known for its staking and reward programs, which offer users 
+the opportunity to earn interest on their cryptocurrency 
+holdings or receive cashback on purchases made with their 
+Visa card. Overall, Crypto.com has quickly become a popular 
+choice for cryptocurrency investors and enthusiasts looking for 
+a comprehensive and user-friendly platform.
+ 
+ 198
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 199
+=== PAGE 101 ===
+Binance is one of the largest cryptocurrency exchanges in the 
+world, founded in 2017 by Changpeng Zhao. It offers a wide 
+range of digital assets for trading, including Bitcoin, Ethereum, 
+and hundreds of other cryptocurrencies. Binance is known for 
+its low trading fees, high liquidity, and user-friendly interface.
+ 
+One of the key features of Binance is its Binance Coin (BNB), 
+which is the native cryptocurrency of the Binance platform. 
+Users who hold BNB can use it to pay for trading fees, receive 
+discounts, and participate in token sales on the Binance 
+Launchpad platform. Binance has also developed a number of 
+other products and services, including Binance Smart Chain, 
+which is a blockchain platform that allows for the creation of 
+decentralized applications (DApps). 
+ 200
+O See ’Changpeng Zhao’ on page 276 
+O See ’DApps’ on page 56 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 201
+=== PAGE 102 ===
+The exchange platform allows users to buy, sell, and store 
+various cryptocurrencies such as Bitcoin, Ethereum, and 
+Litecoin, among others. It was founded in 2012 and is 
+headquartered in San Francisco, California.
+ 
+The platform provides a user-friendly interface that makes it 
+easy for people to buy and sell cryptocurrencies with fiat 
+money, such as U.S. dollars, Euros, or British pounds. Coinbase 
+charges fees for its services, which include trading fees and 
+fees for depositing or withdrawing money.
+ 
+In addition to its exchange services, Coinbase also offers a 
+digital wallet for users to store their cryptocurrencies securely. 
+The platform has also expanded its offerings to include 
+services such as staking and trading on margin.
+ 
+ 202
+O See ’Staking’ on page 112 
+O See ’Margin Call’ on page 222 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 203
+=== PAGE 103 ===
+FTX was a cryptocurrency derivatives trading platform founded 
+by Sam Bankman-Fried and Gary Wang, The platform offered 
+a wide range of trading products, including futures, options, 
+and leveraged tokens, and has gained popularity in the crypto 
+trading community for its innovative products and user-friendly 
+interface. FTX, experienced a spectacular fall in November 
+2022 due to Bankman-Fried's mismanagement and a series of 
+scandals involving FTX-linked entities. There are a number of 
+companies, including Silver Lake Financial, Pacific Alliance 
+Holdings, and Millennium Investments, that were involved in the 
+collapse of FTX and Bankman-Fried's financial troubles. 
+ 
+ 204
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 205
+=== PAGE 104 ===
+ 206
+Trading 
+ 
+ 207
+=== PAGE 105 ===
+Technical analysis is a method of evaluating securities, such as 
+stocks or currencies, based on statistical trends and patterns in 
+their price and volume charts. The goal of technical analysis is 
+to predict future price movements by analyzing historical price 
+data and identifying patterns that may suggest a trend. One 
+of the key assumptions of technical analysis is that the market 
+tends to follow trends, and that these trends can be identified 
+and exploited by traders. Technical analysts use charts and 
+indicators to identify patterns, such as support and resistance 
+levels, trend-lines, and moving averages, that may indicate 
+future price movements. 
+Technical analysis does not consider fundamental factors such 
+as the financial health of a company, industry trends, or 
+economic indicators. Instead, it focuses solely on price and 
+volume data. This means that technical analysis can be useful 
+for short-term trading strategies, but may not be as useful for 
+long-term investing. 
+ 208
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 209
+=== PAGE 106 ===
+Fundamental analysis is a method of evaluating a company's 
+intrinsic value by examining its financial and economic data. 
+This analysis involves analyzing a company's financial 
+statements, management team, industry trends, and 
+macroeconomic factors such as interest rates and GDP 
+growth. The goal of fundamental analysis is to determine 
+whether a company is undervalued or overvalued in the stock 
+market. If a company is undervalued, it may present a good 
+investment opportunity as its stock price may increase as its 
+true value becomes recognized. On the other hand, if a 
+company is overvalued, it may be wise to avoid investing in it 
+until its price aligns with its true value. Fundamental analysis is 
+often used by long-term investors who are interested in 
+investing in stocks for the long term rather than short-term 
+trading. 
+ 210
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 211
+=== PAGE 107 ===
+Risk tolerance refers to an individual's willingness to take on 
+risk in pursuit of a particular goal or outcome. It is the degree 
+of uncertainty an individual is comfortable with when making 
+an investment or financial decision. People with a high risk 
+tolerance are willing to accept greater volatility and potential 
+losses in exchange for potentially higher returns, while those 
+with a low risk tolerance prefer to avoid potential losses and 
+prioritize stability over returns. Risk tolerance is influenced by 
+factors such as age, income, investment goals, and personal 
+values. Understanding your risk tolerance is important when 
+making investment decisions, as it can help you create a 
+portfolio that aligns with your goals and comfort level. It is also 
+important to regularly review and adjust your risk tolerance as 
+your circumstances and goals change over time. 
+ 212
+O See ’Investments’ on page 104 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 213
+=== PAGE 108 ===
+Examples of risks that may be addressed through risk 
+management include financial risks, such as market volatility or 
+credit default; operational risks, such as employee errors or 
+equipment failures; and strategic risks, such as changes in the 
+competitive landscape or shifts in customer preferences. 
+Effective risk management can help businesses and 
+organizations operate more efficiently, make better decisions, 
+and reduce the likelihood of significant losses or setbacks. 
+ 214
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 215
+=== PAGE 109 ===
+Trading volume refers to the total number of shares, contracts, 
+or units of a security that have been bought and sold during a 
+given period of time, typically a day or a week. It is an 
+important measure of the liquidity of a security and the level of 
+interest and activity in the market for that security. High 
+trading volume can indicate that a security is popular and 
+actively traded, while low trading volume can suggest that 
+there is less interest or activity in the market. Trading volume is 
+often used by investors and traders as a key metric for 
+analyzing market trends and making investment decisions. 
+ 216
+O See ’Liquidity’ on page 218 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 217
+=== PAGE 110 ===
+Liquidity refers to the ease with which an asset or security can 
+be bought or sold in the market without affecting its price. It is 
+a measure of how quickly an asset can be converted into cash 
+without incurring a significant loss in value.
+ 
+Assets that are considered liquid are typically in high demand 
+and have a large number of buyers and sellers. Examples of 
+liquid assets include stocks, bonds, and currencies, as these 
+instruments can be easily traded on financial exchanges and 
+have active markets with many participants. On the other 
+hand, assets such as real estate or collectibles may be less 
+liquid, as they can be more difficult to sell quickly without 
+incurring a significant loss in value.
+ 
+The level of liquidity in a market can impact the price of an 
+asset, with more liquid assets generally commanding higher 
+prices due to their ease of trading. Liquidity is also an 
+important consideration for investors, as it affects their ability 
+to enter and exit positions in an asset or security. 
+ 218
+O See ’Asset’ on page 286 
+O See ’Trading Volume’ on page 216 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 219
+=== PAGE 111 ===
+Leverage in trading refers to the use of borrowed funds to 
+increase the potential returns on an investment. When trading 
+on margin, a trader can use leverage to control a larger 
+position than they would be able to with their own funds alone. 
+For example, if a trader has $1,000 in their account and uses 
+10x leverage, they could control a position worth $10,000. This 
+amplifies both potential gains and losses, as any movement in 
+the market will be magnified by the leverage used. Leverage 
+can be a powerful tool for experienced traders looking to 
+maximize their profits, but it also comes with significant risk 
+and should be used with caution. High leverage can lead to 
+significant losses if the market moves against a trader, so it is 
+important to manage risk carefully and have a solid 
+understanding of leverage and margin requirements. 
+ 220
+O See ’Risk Management’ on page 214 
+O See ’Risk Tolerance’ on page 212 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 221
+=== PAGE 112 ===
+Margin calls are notifications from a broker to a trader that 
+additional funds must be added to their account due to losses 
+incurred from trades beyond the available margin. If a trader 
+fails to deposit additional funds, the broker may liquidate their 
+positions to cover the losses. Margin calls are typically 
+triggered when the equity in the trader's account falls below a 
+certain percentage of the required margin, which is the 
+amount of funds a trader must have in their account to 
+maintain open positions. Margin calls can be risky for traders 
+who use leverage to amplify their returns, as a sudden drop in 
+the market can result in significant losses and trigger a margin 
+call. 
+ 222
+O See ’Leverage’ on page 220 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 223
+=== PAGE 113 ===
+Trading fees are fees charged by a broker or exchange for 
+executing a trade on behalf of a trader. These fees are 
+typically expressed as a percentage of the total trade value or 
+as a fixed fee per trade. Trading fees can vary widely 
+depending on the platform, the asset being traded, and the 
+volume of trades being executed. In addition to standard 
+trading fees, some platforms may also charge additional fees 
+for services like margin trading, withdrawal, or depositing 
+funds. It's important for traders to understand the fee structure 
+of the platform they're using, as high trading fees can eat into 
+profits and make it more difficult to generate a positive return 
+on investment. As such, it's always a good idea to compare 
+trading fees across different platforms to find the most cost-
+effective option.
+ 
+ 224
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 225
+=== PAGE 114 ===
+A swap fee, also known as a rollover fee or overnight fee, is a 
+fee charged by trading platforms for holding a position open 
+overnight. The fee is charged because when a position is held 
+overnight, the trader is essentially borrowing money from the 
+broker to maintain the position, and the broker charges 
+interest on this loan. The swap fee is usually calculated based 
+on the difference in interest rates between the two currencies 
+being traded, and can be either positive or negative, 
+depending on whether the trader is long or short the position. 
+Swap fees can add up over time and eat into profits, so it's 
+important for traders to factor them into their trading 
+strategies and be aware of the fee structure of the platform 
+they're using.
+ 
+ 
+ 226
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 227
+=== PAGE 115 ===
+A spread in trading refers to the difference between the bid 
+price (the price at which a buyer is willing to purchase an 
+asset) and the ask price (the price at which a seller is willing to 
+sell an asset) on a trading platform. This difference represents 
+the cost of trading and is usually expressed in pips or as a 
+percentage of the asset's price. A narrower spread generally 
+indicates a more liquid market, while a wider spread can 
+indicate lower liquidity and higher transaction costs. Spreads 
+can vary significantly across different assets, markets, and 
+trading platforms, and it's important for traders to factor in 
+these costs when making trading decisions. Some platforms 
+offer variable spreads that can change based on market 
+conditions, while others offer fixed spreads that remain the 
+same regardless of market conditions.
+ 
+ 228
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 229
+=== PAGE 116 ===
+Gas fees are measured in a small fraction of the network's 
+cryptocurrency, such as Ether (ETH), and are used to prioritize 
+transactions based on the amount of gas fees offered. The 
+amount of gas fees required for a transaction varies 
+depending on the network's congestion and the complexity of 
+the transaction or smart contract being executed. During times 
+of high network activity or congestion, gas fees may increase 
+significantly, making it more expensive to use the network. 
+Some blockchain networks, such as Ethereum, allow users to 
+adjust the gas price and limit of their transactions to control 
+the cost of gas fees. 
+ 230
+O See ’Smart Contract’ on page 46 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 231
+=== PAGE 117 ===
+A stock ticker is a unique combination of letters assigned to a 
+publicly traded company that is used to identify the company 
+on a stock exchange. Stock tickers are created using a 
+standardized system and typically consist of one to four letters, 
+although some companies use up to five. The ticker symbol is 
+used to track a company's stock price and financial 
+performance, and is often displayed on financial news 
+channels, trading platforms, and in investment portfolios. 
+Companies can choose their own ticker symbol when they go 
+public, but the symbol must be approved by the stock 
+exchange on which they are listed.
+ 
+ 232
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 233
+=== PAGE 118 ===
+When you are looking at charts using technical analysis, there 
+is usually a clear line of an area or price range where the price 
+has not passed out of  and has been clearly hitting and 
+bouncing away from. In a buy position this would be a price 
+point that price has not moved under. In a sell position, this 
+would be a price point  that price has not moved above. This is 
+a useful piece of information since it allows you to have an 
+idea of where to set your stop loss as well. 
+ 234
+O See ’Technical Analysis’ on page 208 
+O See ’Instrument’ on page 292 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 235
+=== PAGE 119 ===
+Simply put, when you are looking at charts using technical 
+analysis, there is usually a clear line of an area or price range 
+where the price has not passed out of, and has been clearly 
+hitting and bouncing away from. In a buy position this would 
+be a price point that price has not moved over. In a sell 
+position, this would be a price point, that price has not moved 
+under. This information can be used to understand where to 
+set a target or take profit. 
+ 236
+O See ’Technical Analysis’ on page 208 
+O See ’Take Profit’ on page 240 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 237
+=== PAGE 120 ===
+Price action refers to the movement of the price of an asset, 
+such as a stock or cryptocurrency, on a chart over time. It is a 
+way of analyzing the behavior of the market by studying how 
+price moves, rather than relying on technical indicators or 
+other external factors.
+ 
+Price action traders use charts and other visual representations 
+of price movement to identify patterns, trends, and support 
+and resistance levels. They look for specific price movements, 
+such as breakouts, pullbacks, and trend reversals, to determine 
+when to buy or sell an asset.
+ 
+The main idea behind price action is that price movement 
+reflects all available information about an asset, including its 
+fundamental factors, market sentiment, and other market 
+participants' actions. By analyzing price action, traders can 
+gain insight into the underlying market dynamics and make 
+informed trading decisions. 
+ 238
+O See ’Resistance’ on page 236 
+O See ’Support’ on page 234 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 239
+=== PAGE 121 ===
+When an investor enters into a trade, they typically set a take 
+profit order to automatically close out the trade if the asset 
+reaches a specific price level. This helps them avoid the 
+temptation to hold onto the investment too long and 
+potentially lose profits if the asset price drops.
+ 
+For example, if an investor buys shares of a company at $50 
+per share and sets a take profit order at $60 per share, the 
+trade will automatically be closed and the investor will realize 
+a profit of $10 per share if the price reaches $60. 
+ 240
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 241
+=== PAGE 122 ===
+When an investor enters into a trade, they may set a stop loss 
+order at a price level below the current market value of the 
+asset. If the asset price drops to the stop loss level, the trade 
+will automatically be closed and the investor will realize a loss, 
+but it will be limited to the predetermined amount.
+ 
+For example, if an investor buys shares of a company at $50 
+per share and sets a stop loss order at $45 per share, the 
+trade will be automatically closed if the price drops to $45. 
+This can help limit the potential loss in case the asset price 
+continues to drop.
+ 
+Stop loss orders are a common risk management tool used by 
+investors to help manage potential losses and limit downside 
+risk. They are often used in conjunction with take profit orders, 
+which are used to automatically close out a trade and lock in 
+profits if the asset price reaches a specific level. 
+ 242
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 243
+=== PAGE 123 ===
+A trailing stop is a type of stop-loss order that automatically 
+adjusts the price of the order as the market price of an asset 
+moves in a favorable direction. It is commonly used by traders 
+and investors to limit their potential losses and lock in profits. 
+ 
+With a trailing stop, a trader sets a specific percentage or 
+dollar amount below the current market price for a long 
+position or above the current market price for a short position. 
+As the market price of the asset increases or decreases, the 
+trailing stop adjusts automatically, maintaining the set 
+distance from the market price. 
+ 
+For example, if a trader sets a 5% trailing stop for a long 
+position on a currency trading at $100, if the currency price 
+rises to $110, the stop-loss order will be adjusted to $104.50, 
+maintaining the 5% distance from the market price. 
+ 244
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 245
+=== PAGE 124 ===
+A positive stop loss, also known as a trailing stop, is a type of 
+order used in trading to limit potential losses while allowing for 
+potential gains. Unlike a traditional stop loss, which sets a 
+fixed price at which a trade will automatically be closed if the 
+market moves against it, a positive stop loss is set at a certain 
+distance away from the current market price, typically a 
+percentage or dollar amount. As the market price moves in 
+favor of the trade, the stop loss also moves up, trailing behind 
+the market price and locking in profit. This allows traders to 
+protect their gains while also allowing for potential upside, as 
+the stop loss only triggers if the market moves a certain 
+distance against the trade. 
+ 246
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 247
+=== PAGE 125 ===
+Arbitrage is a trading strategy that aims to take advantage of 
+price discrepancies for the same asset in different markets. 
+Essentially, an arbitrageur buys an asset in a market where it is 
+undervalued and simultaneously sells it in a market where it is 
+overvalued, making a profit from the price difference. 
+ 
+For example, suppose the price of a stock is $50 in the New 
+Y ork Stock Exchange (NYSE) but only $48 in the London Stock 
+Exchange (LSE). An arbitrageur can buy the stock in LSE and 
+simultaneously sell it in NYSE, earning a profit of $2 per share.
+ 
+Arbitrage is typically a high-speed trading strategy used by 
+institutional investors and hedge funds, as it requires 
+significant resources, quick decision-making, and low-latency 
+technology. In general, arbitrage opportunities tend to be 
+short-lived, as market participants will quickly adjust prices to 
+eliminate any discrepancies. 
+ 248
+O See ’Liquidity’ on page 218 
+O See ’Trading volume’ on page 216 
+O See ’Exchanges’ on page 184 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 249
+=== PAGE 126 ===
+ 250
+NFT’s 
+ 
+ 251
+=== PAGE 127 ===
+It's different from regular money or cryptocurrency because 
+those things are all the same and can be exchanged for each 
+other. But an NFT represents something one-of-a-kind that 
+can't be replaced or replicated. Think of it like a rare baseball 
+card or a special toy that you own. NFTs use blockchain 
+technology to make sure that only one person can own the 
+original, and it's like a digital signature that proves you're the 
+owner. People are excited about NFTs because they can buy, 
+sell, and trade rare digital items just like they would with 
+physical collectibles. 
+ 252
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 253
+=== PAGE 128 ===
+Ordinals are a new type of Bitcoin-based NFT that allows 
+attaching data such as images, videos, and other content to 
+an individual satoshi on the Bitcoin blockchain. Ordinals use a 
+logical ordering system called ordinal theory to give each 
+individual Bitcoin satoshi a unique number, which enables the 
+creation of NFTs that are completely Bitcoin-native. Unlike 
+other NFTs that exist on separate layers from Bitcoin, ordinal 
+NFTs don't require any extra layers and are backward 
+compatible with the Bitcoin network. The Segregated Witness 
+(SegWit) and Taproot updates to the Bitcoin protocol made it 
+possible to store arbitrary data on-chain within a block, which 
+unintentionally enabled the creation of ordinal NFTs. 
+ 254
+O See ’Layer-1’ on page 36 
+O See ’Layer-2’ on page 52 
+O See ’Segwit’ on page 58 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 255
+=== PAGE 129 ===
+The metaverse is a term used to describe a virtual world that is 
+fully immersive and interactive, similar to the concept of the 
+virtual reality depicted in science fiction movies. It is a digital 
+space that is designed to replicate the physical world in a 
+virtual environment or entirely new worlds, where users can 
+create avatars, interact with other users, and participate in 
+various activities.
+ 
+In the metaverse, users can explore new places, attend events, 
+play games, shop, and even work or learn in virtual 
+environments. The metaverse is not limited to a single platform 
+or technology, but rather is a concept that can be 
+implemented using a variety of technologies, such as 
+augmented reality, virtual reality, blockchain, and artificial 
+intelligence. 
+ 256
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 257
+=== PAGE 130 ===
+Ethereum Naming Service (ENS) is a decentralized domain 
+name service built on the Ethereum blockchain. It allows users 
+to register human-readable domain names and associate 
+them with specific Ethereum addresses, smart contracts, or 
+other resources on the Ethereum network. The ENS system 
+enables users to use a simple and memorable name to 
+represent their Ethereum address, instead of sharing for 
+example the address 
+"0x98BbAa2dA8f1c6f6EC2C989Af4A8C08E6A5B0F5d", a user 
+can register the ENS domain name "mywallet.eth" and 
+associate it with their Ethereum address.ENS names are 
+registered using an auction process, where users bid on the 
+domain name they want to register. The highest bidder wins 
+the domain name and pays the winning bid amount to the ENS 
+contract.
+ ENS also supports subdomains, allowing users to 
+create a hierarchy of domain names under a parent domain 
+name. This feature enables organizations and individuals to 
+create a unified naming system for their Ethereum resources.
+ 
+ 258
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 259
+=== PAGE 131 ===
+OpenSea was founded in 2017 by Devin Finzer and Alex 
+Atallah It is a peer-to-peer marketplace for buying, selling, 
+and discovering non-fungible tokens (NFTs). NFTs are unique 
+digital assets that are verified on a blockchain, making them 
+scarce and valuable. OpenSea allows creators to list their NFTs 
+for sale and buyers to purchase them using cryptocurrencies 
+such as Ethereum. The platform also provides tools for 
+searching and discovering NFTs, as well as for managing and 
+tracking one's own NFT collection. OpenSea has become a 
+popular platform for buying and selling NFTs, with a wide 
+variety of digital art, virtual real estate, gaming items, and 
+other collectibles available for sale. 
+ 260
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 261
+=== PAGE 132 ===
+Launched in 2020, Rarible is a decentralized, community-
+governed NFT marketplace built on the Ethereum blockchain. It 
+allows users to create, buy, and sell unique digital assets such 
+as art, music, and other collectibles. Rarible distinguishes itself 
+from other NFT marketplaces by giving users greater control 
+over the buying and selling process, including the ability to set 
+their own royalty fees on their creations. The platform has 
+gained significant traction in the rapidly growing NFT market, 
+with high-profile artists, musicians, and celebrities using it to 
+sell their own unique creations. Rarible's emphasis on 
+decentralization, community involvement, and user autonomy 
+has made it a popular destination for NFT enthusiasts and 
+creators alike. 
+ 262
+O See ’Residual Income’ on page 106 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 263
+=== PAGE 133 ===
+BA YC, a collection of 10,000 unique digital NFT (non-fungible 
+token) art pieces featuring pixelated cartoon ape faces, 
+created by the Bored Ape Club team.
+ 
+Each Bored Ape NFT has its own unique attributes, such as 
+different colors, expressions, accessories, and backgrounds, 
+which make them collectible and valuable. The Bored Ape 
+Y acht Club has gained popularity in the world of blockchain 
+and crypto art, with some of its NFTs selling for millions of 
+dollars. Additionally, owning a Bored Ape NFT grants access to 
+exclusive community events and merchandise. 
+ 264
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 265
+=== PAGE 134 ===
+Degods can be bought, sold, and traded on various 
+blockchain-based marketplaces, and are intended to be used 
+as collateral in lending and borrowing protocols on the 
+Degenerative platform. For example, users could stake their 
+Degods NFTs as collateral to borrow cryptocurrency, or use 
+them to earn rewards in liquidity mining programs.
+ 
+In addition to their use in DeFi protocols, the Degods NFTs are 
+also collectible digital art pieces that can be owned and 
+displayed by their owners. As with other NFTs, the ownership of 
+a Degods NFT is verified on a blockchain, providing a level of 
+scarcity and uniqueness that can be attractive to collectors.
+ 
+ 266
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 267
+=== PAGE 135 ===
+Larva labs began in 2005 by John Watkinson and Matt Hall. In 
+2017 the pair released Crypto punks and launched themselves 
+into the NFT world. Larva labs is a technological creative 
+space, bringing ideas to the digital world.  Larva Labs' projects 
+have played a significant role in the development and 
+popularization of NFTs, and have helped to establish the 
+company as a leading innovator in the blockchain and digital 
+art space. 
+ 268
+O See ’NFT’s’ on page 252 
+O See ’OpenSea’ on page 260 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 269
+=== PAGE 136 ===
+ 270
+Notable 
+Characters 
+ 
+ 271
+=== PAGE 137 ===
+Satoshi Nakamoto is the pseudonym used by the unknown 
+person or group of people who created Bitcoin and authored 
+its original white paper in 2008. The true identity of Satoshi 
+Nakamoto remains unknown, and their anonymity has been a 
+topic of much speculation and controversy. Some have 
+claimed to be Satoshi Nakamoto or have been identified as 
+potential candidates, but none have been definitively proven 
+to be the creator of Bitcoin. Despite their unknown identity, 
+Satoshi Nakamoto's contributions to the development of 
+blockchain technology and the cryptocurrency industry have 
+been groundbreaking and have paved the way for a new era 
+of decentralized digital currencies. 
+ 272
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 273
+=== PAGE 138 ===
+ 
+The co-founder of Ethereum, the second-largest 
+cryptocurrency by market capitalization after Bitcoin. Born in 
+Russia in 1994, Buterin immigrated to Canada with his family at 
+a young age and later became interested in Bitcoin and 
+blockchain technology. In 2013, he co-founded Bitcoin 
+Magazine, a publication focused on the cryptocurrency 
+industry, and in 2014, he conceptualized and began 
+developing Ethereum, a decentralized platform for building 
+smart contracts and decentralized applications. Today, Buterin 
+is widely regarded as one of the most influential figures in the 
+cryptocurrency industry, and is known for his innovative thinking 
+and technical expertise. He has received numerous awards 
+and accolades for his work, including being named to Forbes' 
+30 Under 30 list in 2018, and has spoken widely on the topics 
+of blockchain technology, cryptocurrency, and decentralized 
+finance. 
+ 274
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 275
+=== PAGE 139 ===
+Changpeng Zhao, commonly known as CZ, is a Chinese-
+Canadian entrepreneur and the founder and CEO of Binance, 
+one of the world's largest cryptocurrency exchanges by trading 
+volume. Prior to founding Binance in 2017, CZ worked as a 
+software developer for various financial companies and 
+founded a number of startups, including Fusion Systems, a 
+high-frequency trading platform. Under CZ's leadership, 
+Binance has rapidly grown to become one of the most 
+influential players in the cryptocurrency industry, expanding its 
+offerings to include various crypto-related services such as 
+staking, lending, and decentralized finance (DeFi) platforms. 
+CZ is known for his advocacy of the crypto industry and his 
+vision of making cryptocurrencies accessible to people 
+worldwide.
+ 
+ 276
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 277
+=== PAGE 140 ===
+The former CEO of FTX, has gained attention for his 
+philanthropic efforts and advocacy for effective altruism. In 
+2020, he made headlines for donating over $5 million to 
+political campaigns, including those of US presidential 
+candidate Joe Biden and various Democratic Senate 
+candidates. Bankman-Fried's donations were widely seen as 
+an effort to support candidates who prioritize action on 
+climate change, one of his key philanthropic causes. However, 
+Bankman-Fried has also faced scrutiny over FTX's potential role 
+in facilitating money laundering and other illicit activities 
+through its cryptocurrency exchange. However in November 
+2022 Bankman-Fried stepped down from FTX, which 
+proceeded to experience an internal collapse. 
+ 278
+O See ’FTX’ on page 204 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 279
+=== PAGE 141 ===
+ 
+Elon Musk is a billionaire entrepreneur, inventor, and visionary 
+known for his pioneering work in the technology and energy 
+industries. In the world of cryptocurrency, he has gained 
+notoriety for his tweets and comments on various 
+cryptocurrencies, including Bitcoin, Dogecoin, and Ethereum. 
+Musk's tweets have been known to significantly impact the 
+value of these cryptocurrencies, with some investors referring 
+to it as the "Musk Effect." He has publicly expressed both 
+enthusiasm and skepticism about the potential of 
+cryptocurrency, leading some to speculate on his true stance 
+on the matter. Musk's involvement in the crypto world has been 
+both controversial and influential, drawing attention to the 
+space and influencing market movements with his words and 
+actions. 
+ 280
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 281
+=== PAGE 142 ===
+Jack Dorsey is a technology entrepreneur and the co-founder 
+of Twitter, a social media platform that has become a major 
+player in the world of online communication. In addition to his 
+work at Twitter, Dorsey is also a prominent figure in the 
+cryptocurrency industry, and has been a vocal advocate for 
+Bitcoin and other digital currencies. In 2018, he launched 
+Square Crypto, a division of Square, that is focused on 
+supporting the development of the Bitcoin ecosystem. Dorsey's 
+advocacy for Bitcoin and other cryptocurrencies is rooted in 
+his belief in their potential to create a more open and 
+decentralized financial system. He has been critical of the 
+traditional banking system, which he believes is slow, costly, 
+and often excludes individuals and communities that are 
+underserved by traditional financial institutions. Through his 
+work at Square Crypto and other initiatives, Dorsey has sought 
+to promote greater adoption of Bitcoin and other 
+cryptocurrencies, and to build the infrastructure necessary to 
+support a more accessible an inclusive financial system.
+ 
+ 282
+O See ’Layer-2’ on page 52 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 283
+=== PAGE 143 ===
+ 284
+General 
+ 
+ 285
+=== PAGE 144 ===
+An asset could be something tangible like a house, car, or 
+piece of jewelry, or it could be something intangible like 
+stocks, bonds, or intellectual property. Assets can be classified 
+into different categories such as current assets (assets that 
+can be easily converted into cash within a year) or fixed assets 
+(assets that are intended for long-term use in the business).
+ 
+For example, if you own a house, that is considered an asset 
+because it has value and can be sold for a certain amount of 
+money. Similarly, if you own stocks in a company, those stocks 
+are assets because they represent a portion of ownership in 
+the company, and their value can increase or decrease over 
+time.  Assets are important because they can provide financial 
+security and help to build wealth over time. 
+ 286
+O See ’Stocks’ on page 88 
+O See ’Bank Bonds’ on page 84 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 287
+=== PAGE 145 ===
+A liability is something that a person or company owes to 
+someone else. It is a debt or obligation that must be paid or 
+fulfilled in the future.
+ 
+Examples of liabilities include loans, mortgages, credit card 
+balances, and unpaid bills. When a person or company takes 
+on a liability, they are essentially borrowing money or resources 
+from someone else with the understanding that they will pay it 
+back or fulfill their obligation at a later time.
+ 
+In accounting, liabilities are typically listed on a balance sheet 
+as they represent an amount owed and impact the financial 
+health of a person or company. 
+ 288
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 289
+=== PAGE 146 ===
+Purchasing power refers to the amount of goods and services 
+that can be bought with a certain amount of currency. It is 
+affected by various factors, including inflation, supply and 
+demand, and changes in the value of the currency. When 
+inflation occurs, the purchasing power of a currency 
+decreases, meaning that more money is needed to purchase 
+the same amount of goods or services. In contrast, when there 
+is a high demand for a certain currency, its purchasing power 
+may increase, as more goods and services can be bought with 
+the same amount of money. Understanding purchasing power 
+is important for consumers, businesses, and investors alike, as it 
+helps inform financial decisions and strategies.
+ 
+ 
+ 290
+O See ’Goods & Services’ on page 80 
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 291
+=== PAGE 147 ===
+A financial instrument is any type of asset that has value and 
+can be traded or invested in. It is a legal agreement between 
+two parties that specifies the terms and conditions of the 
+investment or trade, including the rights and obligations of 
+each party. Examples of financial instruments include stocks, 
+bonds, currencies, commodities, and derivatives. These assets 
+are bought and sold on financial markets, such as stock 
+exchanges or over-the-counter markets, where they are priced 
+based on supply and demand. Financial instruments are used 
+by individuals, companies, and institutions to invest, hedge 
+against risk, or speculate on future price movements. For 
+example, stocks represent ownership in a company, and 
+investors buy and sell shares in the hope of earning a return on 
+their investment through dividends or capital appreciation. 
+Bonds, on the other hand, represent a loan that is made to a 
+company or government, and investors receive regular interest 
+payments in exchange for their investment. 
+ 292
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 293
+=== PAGE 148 ===
+Market manipulation refers to the deliberate attempt to 
+interfere with the free and fair operation of a market, in order 
+to create an artificial price or demand for a security, 
+commodity or currency. This can be achieved through various 
+means such as spreading false rumors, manipulating news or 
+financial data, insider trading, and engaging in other 
+deceptive practices.  The aim of market manipulation is to 
+create a false perception of the market to influence investors 
+or traders to buy or sell securities at artificially inflated or 
+deflated prices. This can lead to financial losses for innocent 
+investors who unknowingly invest in manipulated securities.  
+Market manipulation is illegal in most jurisdictions and is 
+considered a serious offense. Regulators and law enforcement 
+agencies work to detect and prosecute instances of market 
+manipulation in order to maintain market integrity and protect 
+investors. 
+ 294
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 295
+=== PAGE 149 ===
+Whale investors can have a significant impact on the 
+cryptocurrency market, as their large holdings give them the 
+ability to influence prices by buying or selling large amounts of 
+cryptocurrency at once. This can create volatility in the market, 
+and other investors may look to whale investors for cues on 
+market trends.
+ 
+Whale investors can be individuals or organizations, such as 
+hedge funds, mining pools, or exchanges, that have 
+accumulated a large amount of cryptocurrency through 
+various means, such as mining, trading, or investing.
+ 
+Whale investors are important players in the cryptocurrency 
+market, and their actions can have a significant impact on 
+market trends and overall market sentiment. 
+ 296
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 297
+=== PAGE 150 ===
+A Bitcoin maxi, short for maximalist, is a term used to describe 
+an individual who strongly believes in the value and potential 
+of Bitcoin and advocates for it as the only cryptocurrency 
+worth investing in. Bitcoin maxis believe that Bitcoin is the 
+original and most secure cryptocurrency, and that other 
+cryptocurrencies are inferior or unnecessary. They often view 
+Bitcoin as a store of value and a hedge against inflation, and 
+may be skeptical of the utility or legitimacy of other 
+cryptocurrencies. Bitcoin maxis can be very vocal in their 
+support for Bitcoin and may criticize or dismiss other 
+cryptocurrencies and their supporters. 
+ 298
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 299
+=== PAGE 151 ===
+Bulls are typically associated with positive economic 
+conditions, such as low unemployment, high consumer 
+confidence, and strong corporate earnings. As investors 
+become more optimistic about the future of the market or 
+stock, they may be willing to take on more risk and invest more 
+money, which can drive up the price even further. However, it's 
+important to note that bull markets can be unpredictable and 
+can turn into bear markets (where prices are expected to fall) 
+at any time, so it's important for traders to be aware of market 
+conditions and to have a solid trading strategy in place. 
+ 300
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 301
+=== PAGE 152 ===
+In the context of cryptocurrency, a bear is a term used to 
+describe a person who  has an overall pessimistic sentiment 
+about the market conditions.
+ 
+A bear market can be caused by a variety of factors, such as 
+negative news, economic uncertainty, or a lack of demand for 
+a particular cryptocurrency. During a bear market, prices tend 
+to decline over a prolonged period, and investors may become 
+more cautious or risk-adverse.
+ 
+ 302
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 303
+=== PAGE 153 ===
+ 
+Small software programs that extend the functionality of a 
+web browser. It is typically designed to add new features or 
+modify existing ones, making it easier for users to customize 
+their browsing experience. Browser extensions can be used to 
+do things like blocking ads, managing passwords, downloading 
+videos, translating pages, and many other tasks. They are 
+available for a wide variety of browsers, including Chrome, 
+Firefox, Safari, and Edge, and can be downloaded from their 
+respective extension stores or marketplaces. Some extensions 
+can be quite useful and can significantly enhance your 
+browsing experience, but it's important to be cautious about 
+which ones you install, as some may be malicious and could 
+compromise your privacy or security.
+ 
+ 304
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 305
+=== PAGE 154 ===
+QR codes are similar to traditional barcodes, but they can 
+store more information, such as website URLs, contact 
+information, product details, and even payment information. To 
+scan a QR code, you need to use a QR code reader app on 
+your smartphone, which will use the camera to scan the code 
+and then decode the information stored within it. QR codes 
+are commonly used in marketing and advertising to provide 
+customers with quick access to information or promotional 
+offers. They are also used in various other industries, such as 
+logistics, ticketing, and payment systems, due to their 
+convenience and ease of use.
+ 
+QR codes provide a simple and efficient way to access and 
+share information, making them a popular tool in today's 
+digital world. 
+ 306
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 307
+=== PAGE 155 ===
+An AML - anti-money laundering policy, is a set of procedures 
+and controls that a financial institution or other regulated 
+entity puts in place to help prevent money laundering and 
+other illegal financial activities. Money laundering is the 
+process of disguising the proceeds of illegal activities, such as 
+drug trafficking or fraud, so that they appear to come from a 
+legitimate source. An AML policy typically includes measures 
+such as customer due diligence, which involves verifying the 
+identity of customers and conducting ongoing monitoring of 
+their transactions, as well as reporting suspicious activity to the 
+relevant authorities. It may also include training for employees 
+to help them identify money laundering activity, as well as risk 
+assessments and compliance testing to ensure that the policy 
+is effective and up-to-date. Regulated entities, such as banks, 
+money service businesses, and cryptocurrency exchanges, are 
+required by law to have an AML policy in place and to comply 
+with AML regulations. 
+ 308
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 309
+=== PAGE 156 ===
+This is a process that businesses and organizations use to 
+verify the identity of their clients and assess their potential risks 
+of illegal intentions, such as money laundering, terrorist 
+financing, or fraud. KYC typically involves collecting personal 
+information, such as name, address, date of birth, and 
+identification documents, such as passport or driver's license. 
+The process helps businesses to comply with regulatory 
+requirements and ensure that they are not facilitating criminal 
+activities unknowingly. KYC is commonly used in industries such 
+as banking, insurance, and e-commerce. 
+ 310
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+         
+ 311
+=== PAGE 157 ===
+The two factors typically used are: 
+   1. Something the user knows, such as a password or PIN. 
+ 2. Something the user has, such as a mobile device or 
+hardware token that generates a one-time code. When a user 
+attempts to log in or complete a transaction, they are 
+prompted to provide both factors of authentication. This 
+provides an extra layer of security beyond just a password, as 
+even if someone were to obtain a user's password, they would 
+still need access to the second factor in order to gain entry. 
+Two-factor authentication is commonly used in online banking, 
+email, and social media platforms, as well as other websites 
+and services that require strong security measures to protect 
+sensitive information. Overall, two-factor authentication is an 
+effective way to enhance the security of online accounts and 
+protect against unauthorized access. 
+ 312
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 313
+=== PAGE 158 ===
+Hackers use various techniques and tools to gain access to 
+computer systems and networks, such as exploiting 
+vulnerabilities in software, using social engineering tactics to 
+trick users into revealing their passwords, or conducting brute-
+force attacks to guess passwords. 
+The motivations behind hacking can vary widely, from financial 
+gain and personal information theft to political activism and 
+espionage. Some hackers are motivated by the challenge of 
+breaking into complex systems or networks, while others may 
+seek to expose vulnerabilities in software or raise awareness 
+about security issues. 
+Hacking can have serious consequences for individuals and 
+organizations, including financial losses, identity theft, and 
+damage to reputation. To protect against hacking, individuals 
+and organizations are advised to use strong passwords, keep 
+their software up-to-date, and use security measures such as 
+firewalls and antivirus software.
+ 
+ 314
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 315
+=== PAGE 159 ===
+ 
+HODLing, often spelled as 'holding', is a term used in the 
+cryptocurrency community that refers to the practice of 
+holding onto one's cryptocurrency investments for an extended 
+period, instead of selling or trading them for a profit or loss. 
+The term originated from a typo in a Bitcoin forum post in 2013, 
+where a user misspelled "hold" as "hodl". The term has since 
+gained popularity in the cryptocurrency community as a way of 
+expressing the idea of staying invested in the market, even 
+during times of high volatility or uncertainty. HODLing is often 
+associated with a long-term investment strategy, where 
+investors believe in the long-term potential of the 
+cryptocurrency market and are willing to hold onto their 
+investments for years, even in the face of short-term price 
+fluctuations. 
+ 316
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 317
+=== PAGE 160 ===
+The term implies that these investors have strong and 
+unwavering conviction in the long-term potential of their 
+investments and are willing to weather short-term price 
+fluctuations in order to achieve greater gains in the future. 
+The opposite of "diamond hands" is "paper hands," which 
+refers to investors who sell their investments quickly during 
+times of market volatility or downturns due to fear or panic. 
+ 318
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 
+ 319
+=== PAGE 161 ===
+The phrase "When Lambo" is often used in online forums or 
+social media discussions about cryptocurrency prices or 
+investments, and is sometimes used humorously or ironically to 
+poke fun at the hype and speculation surrounding the 
+cryptocurrency market. 
+However, it's important to note that investing in 
+cryptocurrencies, like any other investment, involves significant 
+risk and should be approached with caution and careful 
+consideration of one's financial situation and goals. The 
+cryptocurrency market is known for its volatility and sudden 
+price swings, and investors should only invest what they can 
+afford to lose. 
+ 320
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+ 321
+=== PAGE 162 ===
+Glossary 
+2FA   312 
+Airdrop  126 
+Altcoin   140 
+AML Policy  308 
+Arbitrage  248 
+Asset  286 
+Bank Bail in  96 
+Bank Bail out  94 
+Bank Bonds  84 
+BA YC  264 
+Bear  302 
+Binance  200 
+Bitcoin  136 
+Bitcoin Maxi  298 
+Bitcoin ordinals  254 
+Block  20 
+Bridges  64 
+Browser extension  304 
+Bull  300 
+Burning a token  158 
+CBDC  152 
+CEFI  186 
+CEX  188 
+Changpeng Zhao  276 
+Circulating Supply  122 
+Coin information  160 
+Coinbase  202 
+Cold Storage  170 
+Commodities  86 
+Crypto.com  198 
+Cryptocurrency  132 
+DAG  60 
+DAO  48 
+DApp  56 
+DEFI  190 
+Degods  266 
+DEX  192 
+Diamonds Hands  318 
+Dividends  110 
+ 322
+Elon Musk  280 
+ENS  258 
+ERC-20  44 
+ETF  90 
+ETHER  142 
+Exchange  184 
+Federel Reserve (FED)  82 
+Fiat Currency  78 
+Fractional Reserve Banking  92 
+FTX  204 
+Fundamental analysis  210 
+Gas Fees  230 
+Goods&Services  80 
+Governance Token  156 
+Hacking  314 
+Halvening  30 
+Hash  22 
+HODLing  316 
+Hot Wallet  168 
+How does Blockchain work  14 
+How to choose a crypto wallet  166 
+Instrument  292 
+IOTA  62 
+Jack Dorsey  282 
+K.Y.C.  310 
+Larva Labs  268 
+Layer 1  36 
+Layer 2  52 
+Ledger  16 
+Leverage  220 
+Liability  288 
+Lightening Network  54 
+Liquidity  218 
+Margin Call  222 
+Market Cap  116 
+Market Dominance  124 
+Market Manipulation  294 
+MetaMask  178 
+Metaverse  256 
+Mining Pool  28 
+Minting coin  26 
+ 323
+=== PAGE 163 ===
+Native token  134 
+NFT  252 
+Noding  42 
+OpenSea  260 
+P2P  194 
+Parachain  66 
+Parathread  68 
+Passive Income  108 
+Phantom Wallet  180 
+Positive stop loss  246 
+Price action  238 
+Privacy Coin  150 
+Private Keys  172 
+Proof of Stake  40 
+Proof of Work  18 
+public keys  174 
+Purchasing Power  290 
+Q.R. Code  306 
+Rarible  262 
+Residual Income  106 
+Resistance line  236 
+Risk management  214 
+Risk tolerance  212 
+Roll up  74 
+Rug Pull  128 
+Sam Bankman Fried (SBF)  278 
+Satoshi  138 
+Satoshi Nakamoto  272 
+Scalability  50 
+SEC  98 
+Segwit  58 
+SHA 256  38 
+Sharding  70 
+Side Chains  72 
+Smart Contracts  46 
+SOL  144 
+Spread  228 
+Stablecoin  148 
+Staking  112 
+Stocks  88 
+Stockticker  232 
+ 324
+Stop loss  242 
+Supply& Demand  118 
+Support line  234 
+Swap  196 
+Swap Fee  226 
+Take profit  240 
+Target Hash  24 
+Technical analysis  208 
+Token  146 
+Total Supply  120 
+TPS  32 
+Trading Fees  224 
+Trading Volume  216 
+Trailing stop  244 
+Transaction ID  34 
+Trust Wallet  176 
+Types of Investments  104 
+Vitalik Buterin  274 
+Whale  296 
+What is Blockchain  12 
+When Lambo  320 
+White papers  162 
+Who can Invest in Crypto  102 
+Wrapped Coin  154 
+Yield Farming  114 
+ 325
+=== PAGE 164 ===
+Proof

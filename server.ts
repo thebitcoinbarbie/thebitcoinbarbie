@@ -14,6 +14,85 @@ const mode: Mode =
 /**
  * Add any API routes here.
  */
+
+// Stripe checkout session creation
+app.post("/api/create-checkout-session", async (c) => {
+  const { email, product } = await c.req.json();
+
+  const stripeKey = process.env.STRIPE_SECRET_KEY;
+  if (!stripeKey) {
+    return c.json({ error: "Stripe not configured yet" }, 503);
+  }
+
+  const DOMAIN = process.env.DOMAIN || "http://localhost:5173";
+
+  const prices: Record<string, number> = {
+    "crypto-starter-kit": 4700, // $47 in cents
+  };
+
+  const priceId = prices[product] || prices["crypto-starter-kit"];
+
+  const { default: Stripe } = await import("stripe");
+  const stripe = new Stripe(stripeKey, { apiVersion: "2024-12-18.acacia" });
+
+  const session = await stripe.checkout.sessions.create({
+    payment_method_types: ["card"],
+    line_items: [
+      {
+        price_data: {
+          currency: "usd",
+          product_data: {
+            name: "Crypto Starter Kit",
+            description: "The complete beginner's guide to crypto — 164-page guide + glossary + checklist",
+            images: [`${DOMAIN}/images/product.png`],
+          },
+          unit_amount: priceId,
+        },
+        quantity: 1,
+      },
+    ],
+    mode: "payment",
+    customer_email: email,
+    success_url: `${DOMAIN}/success?session_id={CHECKOUT_SESSION_ID}`,
+    cancel_url: `${DOMAIN}/kit`,
+    metadata: { product, email },
+  });
+
+  return c.json({ url: session.url });
+});
+
+// Stripe webhook handler
+app.post("/api/stripe-webhook", async (c) => {
+  const stripeKey = process.env.STRIPE_SECRET_KEY;
+  const webhookSecret = process.env.STRIPE_WEBHOOK_SECRET;
+
+  if (!stripeKey || !webhookSecret) {
+    return c.json({ error: "Stripe not configured" }, 503);
+  }
+
+  const { default: Stripe } = await import("stripe");
+  const stripe = new Stripe(stripeKey, { apiVersion: "2024-12-18.acacia" });
+
+  const sig = c.req.header("stripe-signature");
+  const body = await c.req.text();
+
+  let event: Stripe.Event;
+  try {
+    event = await stripe.webhooks.constructEventAsync(body, sig!, webhookSecret);
+  } catch (err) {
+    return c.json({ error: "Invalid signature" }, 400);
+  }
+
+  if (event.type === "checkout.session.completed") {
+    const session = event.data.object as Stripe.Checkout.Session;
+    console.log("✅ Payment succeeded:", session.id, "for:", session.metadata?.email);
+    // TODO: Send download email with product
+    // For now, we rely on the success page + email from Stripe
+  }
+
+  return c.json({ received: true });
+});
+
 app.get("/api/hello-zo", (c) => c.json({ msg: "Hello from Zo" }));
 
 if (mode === "production") {
