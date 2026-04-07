@@ -1,148 +1,120 @@
 import { useState } from "react";
-import { Link } from "react-router-dom";
 import { Button } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Badge } from "@/components/ui/badge";
+import { CheckCircle, BookOpen, Zap, Shield, Download, ArrowRight } from "lucide-react";
+
+const features = [
+  { icon: BookOpen, text: "164 pages of plain-English crypto education" },
+  { icon: Zap, text: "Go from zero to confident in under 2 hours" },
+  { icon: Shield, text: "Written by an experienced crypto investor" },
+  { icon: Download, text: "Instant PDF download — read on any device" },
+];
+
+const contents = [
+  "What Bitcoin actually is (and why it matters)",
+  "How to set up your first wallet safely",
+  "Understanding blockchain in 5 minutes",
+  "DeFi explained without the jargon",
+  "Crypto vocab glossary — 100+ terms defined",
+  "Common scams and how to avoid them",
+  "Proofs & verifications so you know it's real",
+];
 
 export default function Kit() {
   const [email, setEmail] = useState("");
-  const [loading, setLoading] = useState(false);
-  const [error, setError] = useState("");
+  const [step, setStep] = useState<"landing" | "checkout" | "success">("landing");
 
-  const handlePurchase = async () => {
-    if (!email) {
-      setError("Please enter your email address.");
-      return;
-    }
-    setError("");
-    setLoading(true);
-
-    try {
-      const res = await fetch("/api/create-checkout-session", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ email, product: "crypto-starter-kit" }),
-      });
-      const data = await res.json();
-      if (data.url) {
-        window.location.href = data.url;
-      } else {
-        setError("Something went wrong. Please try again.");
-      }
-    } catch {
-      setError("Connection failed. Please try again.");
-    } finally {
-      setLoading(false);
-    }
+  const handleCheckout = () => {
+    if (!email) return;
+    window.open("https://buy.stripe.com/6oU28r7lZgC2fij1Ija7C09", "_blank");
   };
 
   return (
-    <div className="min-h-screen bg-[#0a0a0f] text-white">
-      {/* Nav */}
-      <nav className="border-b border-gray-800 bg-[#0a0a0f]/90 backdrop-blur-sm sticky top-0 z-50">
-        <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
-          <Link to="/" className="font-bold text-xl">TheBitcoinBarbie</Link>
-          <Link to="/" className="text-gray-400 hover:text-white text-sm">← Back</Link>
+    <div className="min-h-screen bg-gradient-to-br from-slate-950 via-slate-900 to-emerald-950">
+      <header className="border-b border-emerald-900/30 bg-black/20 backdrop-blur-sm">
+        <div className="mx-auto max-w-6xl px-6 py-4 flex items-center justify-between">
+          <span className="text-xl font-bold bg-gradient-to-r from-emerald-400 to-cyan-400 bg-clip-text text-transparent">
+            The Bitcoin Barbie
+          </span>
+          <a href="/" className="text-sm text-emerald-400 hover:text-emerald-300 transition-colors">
+            ← Back to Home
+          </a>
         </div>
-      </nav>
+      </header>
 
-      <div className="max-w-5xl mx-auto px-6 py-12">
-        <div className="grid md:grid-cols-2 gap-12">
-          {/* Left - Product Info */}
-          <div>
-            <div className="inline-block mb-4 px-3 py-1 bg-orange-500/10 rounded-full text-sm text-orange-400 border border-orange-500/20">
-              Complete Digital Bundle
-            </div>
-            <h1 className="text-4xl font-bold mb-4">Crypto Starter Kit</h1>
-            <p className="text-gray-400 mb-8">
-              The complete beginner's guide to crypto — three powerful resources that take you from zero knowledge to confident holder.
-            </p>
+      <main className="mx-auto max-w-5xl px-6 py-16">
+        {step === "landing" && (
+          <div className="grid gap-12 lg:grid-cols-2 items-start">
+            <div>
+              <Badge className="mb-4 bg-emerald-500/20 text-emerald-400 border-emerald-500/30">
+                📖 164-Page PDF Guide
+              </Badge>
+              <h1 className="text-4xl md:text-5xl font-bold text-white mb-6 leading-tight">
+                The Bitcoin Beginners Kit
+              </h1>
+              <p className="text-xl text-slate-300 mb-8 leading-relaxed">
+                The plain-English guide to crypto that actually makes sense. No jargon, no hype — just real knowledge from someone who's been there.
+              </p>
 
-            <div className="space-y-4 mb-8">
-              <div className="flex gap-3">
-                <span className="text-2xl">📖</span>
-                <div>
-                  <div className="font-semibold">164-Page Beginner Guide</div>
-                  <div className="text-gray-500 text-sm">From "what is Bitcoin?" to making your first trade. No prior knowledge needed.</div>
-                </div>
-              </div>
-              <div className="flex gap-3">
-                <span className="text-2xl">🗂️</span>
-                <div>
-                  <div className="font-semibold">100+ Term Glossary</div>
-                  <div className="text-gray-500 text-sm">Crypto vocabulary explained in plain English. Finally understand what you're reading.</div>
-                </div>
-              </div>
-              <div className="flex gap-3">
-                <span className="text-2xl">✅</span>
-                <div>
-                  <div className="font-semibold">First Trade Checklist</div>
-                  <div className="text-gray-500 text-sm">A foolproof step-by-step checklist for your first purchase.</div>
-                </div>
-              </div>
-              <div className="flex gap-3">
-                <span className="text-2xl">🔒</span>
-                <div>
-                  <div className="font-semibold">Lifetime Access</div>
-                  <div className="text-gray-500 text-sm">Buy once, keep forever. Future updates included free.</div>
-                </div>
-              </div>
-            </div>
-
-            <Card className="bg-[#111118] border-gray-800">
-              <CardContent className="p-4 text-sm text-gray-400">
-                <div className="flex items-start gap-2">
-                  <span>💡</span>
-                  <p>100+ people have trusted Sydney's guidance to start their crypto journey the right way.</p>
-                </div>
-              </CardContent>
-            </Card>
-          </div>
-
-          {/* Right - Checkout */}
-          <div>
-            <Card className="bg-gradient-to-br from-[#111118] to-[#0a0a0f] border-orange-500/30 sticky top-24">
-              <CardContent className="p-8">
-                <div className="text-sm text-gray-500 mb-1">Total</div>
-                <div className="flex items-end gap-2 mb-6">
-                  <span className="text-5xl font-bold">$47</span>
-                  <span className="text-gray-500 mb-2">one-time</span>
-                </div>
-
-                <div className="space-y-4">
-                  <div>
-                    <label className="block text-sm font-medium mb-2">Email Address</label>
-                    <input
-                      type="email"
-                      value={email}
-                      onChange={(e) => setEmail(e.target.value)}
-                      placeholder="your@email.com"
-                      className="w-full px-4 py-3 bg-[#1a1a24] border border-gray-700 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:border-orange-500"
-                    />
+              <div className="space-y-4 mb-8">
+                {features.map(({ icon: Icon, text }) => (
+                  <div key={text} className="flex items-center gap-3 text-slate-300">
+                    <Icon className="w-5 h-5 text-emerald-400 shrink-0" />
+                    <span>{text}</span>
                   </div>
+                ))}
+              </div>
+            </div>
 
-                  {error && (
-                    <div className="text-red-400 text-sm bg-red-500/10 border border-red-500/20 rounded-lg px-4 py-2">
-                      {error}
-                    </div>
-                  )}
-
+            <Card className="bg-slate-900/80 border-emerald-500/20 backdrop-blur-sm sticky top-8">
+              <CardHeader>
+                <CardTitle className="text-2xl text-white">What You'll Learn</CardTitle>
+              </CardHeader>
+              <CardContent className="space-y-3">
+                {contents.map((item) => (
+                  <div key={item} className="flex items-start gap-2 text-slate-300 text-sm">
+                    <CheckCircle className="w-4 h-4 text-emerald-400 mt-0.5 shrink-0" />
+                    <span>{item}</span>
+                  </div>
+                ))}
+                <div className="pt-4 border-t border-slate-700">
+                  <div className="flex items-baseline gap-2 mb-2">
+                    <span className="text-4xl font-bold text-white">$7</span>
+                    <span className="text-slate-400 line-through text-lg">$27</span>
+                    <Badge className="bg-red-500/20 text-red-400 border-red-500/30 text-xs">
+                      74% OFF
+                    </Badge>
+                  </div>
+                  <input
+                    type="email"
+                    placeholder="Enter your email"
+                    value={email}
+                    onChange={(e) => setEmail(e.target.value)}
+                    className="w-full px-4 py-3 rounded-lg bg-slate-800 border border-slate-600 text-white placeholder:text-slate-500 mb-3 focus:outline-none focus:border-emerald-500"
+                  />
                   <Button
-                    onClick={handlePurchase}
-                    disabled={loading}
-                    className="w-full bg-gradient-to-r from-orange-500 to-amber-500 hover:from-orange-600 hover:to-amber-600 text-white border-0 py-6 text-lg"
+                    onClick={handleCheckout}
+                    className="w-full bg-gradient-to-r from-emerald-500 to-cyan-500 hover:from-emerald-600 hover:to-cyan-600 text-white font-semibold py-6 text-lg"
                   >
-                    {loading ? "Redirecting..." : "Buy Now — $47"}
+                    Get Instant Access — $7
+                    <ArrowRight className="ml-2 w-5 h-5" />
                   </Button>
-
-                  <div className="text-center text-gray-500 text-xs">
-                    Secure checkout powered by Stripe. You'll receive your download link immediately after payment.
-                  </div>
+                  <p className="text-center text-xs text-slate-500 mt-3">
+                    Secure checkout via Stripe • Instant PDF delivery
+                  </p>
                 </div>
               </CardContent>
             </Card>
           </div>
+        )}
+      </main>
+
+      <footer className="border-t border-slate-800 mt-16">
+        <div className="mx-auto max-w-6xl px-6 py-8 text-center text-slate-500 text-sm">
+          © 2025 The Bitcoin Barbie. All rights reserved.
         </div>
-      </div>
+      </footer>
     </div>
   );
 }
