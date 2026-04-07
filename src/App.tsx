@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import Home from "./pages/Home";
 import Kit from "./pages/Kit";
 import Success from "./pages/Success";
@@ -10,7 +10,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 export default function App() {
   return (
     <ThemeProvider>
-      <BrowserRouter>
+      <HashRouter>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/kit" element={<Kit />} />
@@ -19,7 +19,7 @@ export default function App() {
           <Route path="/glossary" element={<Glossary />} />
           <Route path="/course" element={<Course />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </ThemeProvider>
   );
 }
