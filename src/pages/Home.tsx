@@ -1,156 +1,127 @@
 import { Link } from "react-router-dom";
-import { Badge } from "@/components/ui/badge";
-import { Button } from "@/components/ui/button";
-
-const features = [
-  {
-    title: "Start From Zero",
-    desc: "No prior crypto knowledge needed. We explain everything from what Bitcoin is to how to place your first trade."
-  },
-  {
-    title: "Risk Management",
-    desc: "Learn how to protect your capital first. Most beginners lose money by jumping in without understanding position sizing."
-  },
-  {
-    title: "Real Strategies",
-    desc: "Not theoretical fluff. Practical setups that actually work in current market conditions."
-  },
-  {
-    title: "Build Real Wealth",
-    desc: "The goal isn't trading excitement — it's compounding Bitcoin over time and watching your net worth grow."
-  }
-];
+import { useEffect, useState } from "react";
 
 export default function Home() {
+  const [loaded, setLoaded] = useState(false);
+  useEffect(() => { setLoaded(true); }, []);
+
   return (
-    <div className="min-h-screen bg-[#0a0a0f] text-white">
-      {/* Nav */}
-      <nav className="flex items-center justify-between px-8 py-5 border-b border-white/5">
-        <img src="https://thebitcoinbarbie.com/images/logo.jpg" alt="The Bitcoin Barbie" className="h-14 object-contain" />
-        <div className="flex gap-6 text-sm font-medium">
-          <Link to="/kit" className="hover:text-pink-400 transition">Starter Kit</Link>
-          <Link to="/course" className="hover:text-pink-400 transition">Course</Link>
-          <Link to="/glossary" className="hover:text-pink-400 transition">Glossary</Link>
-          <Link to="/consulting" className="hover:text-pink-400 transition">Coaching</Link>
-        </div>
-      </nav>
-
+    <div className="min-h-screen bg-zinc-950 text-white">
       {/* Hero */}
-      <section className="relative px-8 py-24 text-center overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-b from-pink-500/5 via-transparent to-transparent" />
-        <div className="relative max-w-4xl mx-auto">
-          <Badge className="mb-6 bg-pink-500/10 text-pink-400 border-pink-500/20 text-xs px-4 py-1">
-            Trusted by 1,000+ beginners worldwide
-          </Badge>
-          <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-            <span className="bg-gradient-to-r from-pink-400 via-pink-300 to-purple-400 bg-clip-text text-transparent">
-              Your First Bitcoin
+      <section className="relative overflow-hidden">
+        <div className="absolute inset-0 bg-gradient-to-br from-pink-900/20 via-zinc-950 to-zinc-950" />
+        <div className="relative mx-auto max-w-5xl px-6 py-20 md:py-32 text-center">
+          <img
+            src="/assets/logo-Clear.png"
+            alt="The Bitcoin Barbie Logo"
+            className="mx-auto mb-8 h-48 w-auto md:h-64 object-contain drop-shadow-2xl"
+            style={{ filter: "drop-shadow(0 0 30px rgba(233,30,140,0.4))" }}
+          />
+          <h1 className="mb-4 text-5xl font-bold tracking-tight md:text-7xl">
+            <span className="bg-gradient-to-r from-pink-400 via-pink-500 to-pink-600 bg-clip-text text-transparent">
+              The Bitcoin Barbie
             </span>
-            <br />
-            <span className="text-white">Starts Here</span>
           </h1>
-          <p className="text-xl text-gray-400 mb-10 max-w-2xl mx-auto leading-relaxed">
-            The step-by-step system that takes you from knowing nothing about crypto to confidently building your first Bitcoin portfolio — in under 7 days.
+          <p className="mx-auto mb-8 max-w-2xl text-xl text-zinc-400 md:text-2xl">
+            Your no-fluff guide to crypto. Learn to invest, trade, and build wealth — starting from zero.
           </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link to="/kit">
-              <Button className="bg-pink-500 hover:bg-pink-600 text-white text-lg px-8 py-6 h-auto rounded-xl font-semibold">
-                Get the Starter Kit — $7
-              </Button>
+          <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
+            <Link
+              to="/kit"
+              className="inline-flex items-center gap-2 rounded-full bg-pink-600 px-8 py-4 text-lg font-semibold text-white shadow-lg shadow-pink-600/30 transition-all hover:bg-pink-500 hover:shadow-pink-500/40"
+            >
+              Get the Starter Kit — $7
             </Link>
-            <Link to="/course">
-              <Button variant="outline" className="border-white/20 text-white hover:bg-white/5 text-lg px-8 py-6 h-auto rounded-xl">
-                Explore the Course
-              </Button>
+            <Link
+              to="/course"
+              className="inline-flex items-center gap-2 rounded-full bg-zinc-800 px-8 py-4 text-lg font-semibold text-white border border-zinc-700 transition-all hover:bg-zinc-700"
+            >
+              Explore the Course
             </Link>
           </div>
         </div>
       </section>
 
-      {/* Social Proof Bar */}
-      <section className="border-y border-white/5 bg-white/[0.02] py-8 px-8">
-        <div className="max-w-5xl mx-auto flex flex-wrap justify-center gap-12 text-center text-gray-500 text-sm">
-          <div><span className="text-white font-bold text-lg">1,000+</span><br/>Students</div>
-          <div><span className="text-white font-bold text-lg">4.9★</span><br/>Rating</div>
-          <div><span className="text-white font-bold text-lg">50+</span><br/>Countries</div>
-          <div><span className="text-white font-bold text-lg">24/7</span><br/>Access</div>
-        </div>
-      </section>
-
-      {/* Features */}
-      <section className="px-8 py-24">
-        <div className="max-w-5xl mx-auto">
-          <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold mb-4">Everything You Need to Start</h2>
-            <p className="text-gray-400 text-lg">No jargon. No confusion. Just clear, actionable guidance.</p>
-          </div>
-          <div className="grid md:grid-cols-2 gap-6">
-            {features.map((f) => (
-              <div key={f.title} className="bg-white/[0.03] border border-white/5 rounded-2xl p-8 hover:bg-white/[0.05] transition">
-                <h3 className="text-xl font-semibold text-white mb-3">{f.title}</h3>
-                <p className="text-gray-400 leading-relaxed">{f.desc}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Kit Preview */}
-      <section className="px-8 py-24 bg-gradient-to-b from-[#0a0a0f] to-[#12121a]">
-        <div className="max-w-5xl mx-auto">
-          <div className="grid md:grid-cols-2 gap-12 items-center">
-            <div>
-              <Badge className="mb-4 bg-pink-500/10 text-pink-400 border-pink-500/20 text-xs">What's Inside</Badge>
-              <h2 className="text-3xl md:text-4xl font-bold mb-6">The Bitcoin Starter Kit</h2>
-              <ul className="space-y-4 text-gray-300">
-                {["Bitcoin basics explained in plain English", "How to set up your first exchange account", "Security best practices — protect your funds", "How to read crypto charts (step by step)", "The exact buying strategy I recommend for beginners", "Common mistakes 90% of beginners make", "Glossary of 100+ essential crypto terms"].map((item) => (
-                  <li key={item} className="flex items-start gap-3">
-                    <span className="text-pink-400 mt-1">✓</span>
-                    <span>{item}</span>
-                  </li>
-                ))}
-              </ul>
-              <div className="mt-8">
-                <Link to="/kit">
-                  <Button className="bg-pink-500 hover:bg-pink-600 text-white text-lg px-8 py-6 h-auto rounded-xl font-semibold">
-                    Get Instant Access — $7
-                  </Button>
+      {/* What You Get */}
+      <section className="mx-auto max-w-6xl px-6 py-20">
+        <h2 className="mb-12 text-center text-3xl font-bold md:text-4xl">
+          Everything you need to start{' '}
+          <span className="bg-gradient-to-r from-pink-400 to-pink-600 bg-clip-text text-transparent">your crypto journey</span>
+        </h2>
+        <div className="grid gap-8 md:grid-cols-3">
+          {[
+            {
+              title: "Crypto Starter Kit",
+              price: "$7",
+              desc: "The essential guide with 164 terms, cheat sheets, and step-by-step setup. Everything you need to open your first account and make your first trade.",
+              cta: "Get the Kit →",
+              link: "/kit",
+              accent: "from-pink-600 to-pink-700",
+              glow: "shadow-pink-600/20",
+            },
+            {
+              title: "Crypto Mastery Course",
+              price: "$15/mo",
+              desc: "A comprehensive video course walking you through every concept — wallets, exchanges, DeFi, Dollar-Cost Averaging, and building your first portfolio.",
+              cta: "Start Learning →",
+              link: "/course",
+              accent: "from-purple-600 to-pink-600",
+              glow: "shadow-purple-600/20",
+            },
+            {
+              title: "1-on-1 Consulting",
+              price: "$29/30min",
+              desc: "Book a personal session and get direct answers to your specific situation. No fluff, just tailored advice from someone who's been there.",
+              cta: "Book a Session →",
+              link: "/consulting",
+              accent: "from-zinc-600 to-zinc-700",
+              glow: "shadow-zinc-600/20",
+            },
+          ].map((card) => (
+            <div
+              key={card.title}
+              className={`relative rounded-2xl bg-gradient-to-b ${card.accent} p-px`}
+            >
+              <div className={`h-full rounded-2xl bg-zinc-900 p-8 shadow-lg ${card.glow}`}>
+                <div className="mb-4 text-3xl font-bold text-white">{card.title}</div>
+                <div className="mb-4 text-2xl font-bold text-pink-400">{card.price}</div>
+                <p className="mb-8 text-zinc-400 leading-relaxed">{card.desc}</p>
+                <Link
+                  to={card.link}
+                  className={`inline-block rounded-full bg-gradient-to-r ${card.accent} px-6 py-3 font-semibold text-white transition-all hover:opacity-90`}
+                >
+                  {card.cta}
                 </Link>
-                <p className="text-gray-500 text-sm mt-3">Instant digital delivery. Start learning in seconds.</p>
               </div>
             </div>
-            <div className="bg-gradient-to-br from-pink-500/10 to-purple-500/5 border border-pink-500/20 rounded-3xl p-10 text-center">
-              <img src="https://thebitcoinbarbie.com/images/logo.jpg" alt="The Bitcoin Barbie" className="w-48 mx-auto mb-6 object-contain" />
-              <div className="text-5xl font-bold text-white mb-2">$7</div>
-              <div className="text-gray-400 mb-6">One-time payment</div>
-              <div className="text-left text-sm text-gray-300 space-y-2">
-                <p>✓ Instant download access</p>
-                <p>✓ Lifetime updates included</p>
-                <p>✓ 100% satisfaction guarantee</p>
-              </div>
-            </div>
-          </div>
+          ))}
         </div>
       </section>
 
-      {/* CTA */}
-      <section className="px-8 py-24 text-center">
-        <div className="max-w-3xl mx-auto">
-          <h2 className="text-3xl md:text-4xl font-bold mb-6">Ready to Start Your Bitcoin Journey?</h2>
-          <p className="text-gray-400 text-lg mb-10">Join thousands of beginners who went from confused to confident in just days.</p>
-          <Link to="/kit">
-            <Button className="bg-pink-500 hover:bg-pink-600 text-white text-xl px-12 py-8 h-auto rounded-2xl font-bold shadow-lg shadow-pink-500/20">
-              Get Started for $7
-            </Button>
-          </Link>
-        </div>
+      {/* About */}
+      <section className="mx-auto max-w-4xl px-6 py-20 text-center">
+        <h2 className="mb-8 text-3xl font-bold md:text-4xl">
+          Built by someone who's been{' '}
+          <span className="bg-gradient-to-r from-pink-400 to-pink-600 bg-clip-text text-transparent">in your shoes</span>
+        </h2>
+        <p className="text-lg text-zinc-400 leading-relaxed">
+          I created The Bitcoin Barbie because I remember what it felt like to see Bitcoin everywhere and understand nothing. No judgment, no gatekeeping — just real talk, real examples, and real step-by-step guidance. If you're starting from zero, you're in the right place.
+        </p>
       </section>
 
       {/* Footer */}
-      <footer className="border-t border-white/5 px-8 py-10 text-center">
-        <img src="https://thebitcoinbarbie.com/images/logo.jpg" alt="" className="h-10 object-contain mx-auto mb-4 opacity-60" />
-        <p className="text-gray-600 text-sm">© 2026 The Bitcoin Barbie. All rights reserved.</p>
+      <footer className="border-t border-zinc-800 py-12 text-center text-sm text-zinc-500">
+        <p>© {new Date().getFullYear()} The Bitcoin Barbie. All rights reserved.</p>
       </footer>
+
+      <style>{`
+        .appear { opacity: 1 !important; transform: translateY(0) !important; }
+        @keyframes fadeUp {
+          from { opacity: 0; transform: translateY(20px); }
+          to { opacity: 1; transform: translateY(0); }
+        }
+        .animate-fade-up { animation: fadeUp 0.6s ease-out forwards; }
+      `}</style>
     </div>
   );
 }
